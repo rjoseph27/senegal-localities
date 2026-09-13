@@ -142,7 +142,7 @@ export const SENEGAL_NEIGHBORHOODS = {
   },
   [SenegalDepartment.PIKINE]: {
     [SenegalCity.ZAC_MBAO]: [
-      SenegalLandmark.ZAC_MBAO_ROND_SIPRES,
+      SenegalLandmark.ZAC_MBAO_ROND_POINT_SIPRES,
       SenegalLandmark.ZAC_MBAO_CITE_SONATEL,
     ],
   },
