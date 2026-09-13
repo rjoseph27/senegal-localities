@@ -1,0 +1,16 @@
+{
+  "name": "senegal-localities",
+  "version": "1.0.0",
+  "description": "Open-source geographic data for localities and landmarks in Senegal",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "generate": "tsx src/generator.ts",
+    "validate": "tsx src/validator.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

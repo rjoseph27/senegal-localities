@@ -1,0 +1,9 @@
+export enum SenegalDepartment {
+  DAKAR = "DAKAR",
+  PIKINE = "PIKINE",
+  GUEDIAWAYE = "GUEDIAWAYE",
+  RUFISQUE = "RUFISQUE",
+  KEUR_MASSAR = "KEUR_MASSAR",
+  THIES = "THIES",
+  MBOUR = "MBOUR",
+}
