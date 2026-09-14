@@ -4,6 +4,4 @@ export enum SenegalDepartment {
   GUEDIAWAYE = "GUEDIAWAYE",
   RUFISQUE = "RUFISQUE",
   KEUR_MASSAR = "KEUR_MASSAR",
-  THIES = "THIES",
-  MBOUR = "MBOUR",
 }
