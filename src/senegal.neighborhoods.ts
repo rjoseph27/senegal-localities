@@ -26,9 +26,12 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.YOFF_TONGHOR,
       SenegalLandmark.YOFF_BIAGUI_BRIOCHE_DOREE,
       SenegalLandmark.YOFF_DIAMALAYE_TERMINUS,
+      SenegalLandmark.YOFF_DIAMALAYE_BRIOCHE_DOREE,
       SenegalLandmark.YOFF_AEROPORT,
       SenegalLandmark.YOFF_VIRAGE_NSIA,
       SenegalLandmark.YOFF_BIAGUI_HYPERMARCHÉ_EXCLUSIF,
+      SenegalLandmark.YOFF_TALLY_CLANDO,
+      SenegalLandmark.YOFF_NDENATT,
     ],
 
     [SenegalCity.GRAND_YOFF]: [
@@ -54,6 +57,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GRAND_DAKAR_CENTENAIRE,
       SenegalLandmark.GRAND_DAKAR_PHARMACIE_EMMANUELLE,
       SenegalLandmark.GRAND_DAKAR_MARCHE,
+      SenegalLandmark.GRAND_DAKAR_GARAGE_CASAMANCE,
+      SenegalLandmark.GRAND_DAKAR_ZONE_B,
     ],
 
     [SenegalCity.NORD_FOIRE]: [
@@ -98,6 +103,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.OUEST_FOIRE_CITE_MOURTADA,
       SenegalLandmark.OUEST_FOIRE_KEUR_PAPE_DIOUF,
       SenegalLandmark.OUEST_FOIRE_IMPOT_DOMAINE,
+      SenegalLandmark.OUEST_FOIRE_COUCOU,
+      SenegalLandmark.OUEST_FOIRE_PHARMACIE_VICTOIRE,
     ],
 
     [SenegalCity.HLM_GRAND_YOFF]: [
@@ -164,6 +171,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.OUAKAM_BOULANGERIE_LAYE_FAYE,
       SenegalLandmark.OUAKAM_CITE_EL_HADJ_MALICK_SY,
       SenegalLandmark.OUAKAM_MONTAGNE_ROUGE,
+      SenegalLandmark.OUAKAM_MARCHE,
+      SenegalLandmark.OUAKAM_PHARMACIE_MOUSSA,
+      SenegalLandmark.OUAKAM_ARRET_CAR_RAPIDE,
     ],
 
     [SenegalCity.LIBERTE_6]: [
@@ -196,17 +206,22 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.LIBERTE_6_CITE_PANORAMIQUE,
       SenegalLandmark.LIBERTE_6_BRIOCHE_DOREE,
       SenegalLandmark.LIBERTE_6_CAMP_LECLERC,
+      SenegalLandmark.LIBERTE_6_DEM_DIK,
+      SenegalLandmark.LIBERTE_6_CONACHAP,
     ],
 
     [SenegalCity.HLM]: [
       SenegalLandmark.HLM_SODIA,
       SenegalLandmark.HLM_POSTE_SANTE,
-      SenegalLandmark.HLM_6,
       SenegalLandmark.HLM_RAIL,
       SenegalLandmark.HLM_STATION,
       SenegalLandmark.HLM_CITE_DOUANE,
+      SenegalLandmark.HLM_1,
       SenegalLandmark.HLM_2,
+      SenegalLandmark.HLM_3,
+      SenegalLandmark.HLM_4,
       SenegalLandmark.HLM_5,
+      SenegalLandmark.HLM_6,
       SenegalLandmark.HLM_TER,
       SenegalLandmark.HLM_MARCHE,
       SenegalLandmark.HLM_KHELCOM_PIZZA,
@@ -285,22 +300,61 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PATTE_DOIE_BRT,
       SenegalLandmark.PATTE_DOIE_STADE_MUNICIPAL,
       SenegalLandmark.PATTE_DOIE_STADE_YAKARR,
+      SenegalLandmark.PATTE_DOIE_HOPITAL_NABIL_CHOUCAIR,
+      SenegalLandmark.PATTE_DOIE_CITE_SOPRIME,
+      SenegalLandmark.PATTE_DOIE_CITE_DES_IMPOTS,
+      SenegalLandmark.PATTE_DOIE_BULDERS,
+      SenegalLandmark.PATTE_DOIE_BRIOCHE_DOREE,
+      SenegalLandmark.PATTE_DOIE_MAIRIE,
     ],
 
-    [SenegalCity.BISCUITERIE]: [SenegalLandmark.BISCUITERIE_OUAGOU_NIAYES],
+    [SenegalCity.BISCUITERIE]: [
+      SenegalLandmark.BISCUITERIE_OUAGOU_NIAYES,
+      SenegalLandmark.BISCUITERIE_ANCIEN_JARDIN_ENFANT,
+      SenegalLandmark.BISCUITERIE_BOURGUIBA,
+      SenegalLandmark.BISCUITERIE_MASSALIKOUL_DJINANE,
+      SenegalLandmark.BISCUITERIE_BOPP,
+    ],
+
+    [SenegalCity.NIARY_TALLY]: [
+      SenegalLandmark.NIARY_TALLY_BRIOCHE_DOREE,
+      SenegalLandmark.NIARY_TALLY_JET_EAU,
+      SenegalLandmark.NIARY_TALLY_SDE,
+      SenegalLandmark.NIARY_TALLY_MARCHE_NGUELAW,
+      SenegalLandmark.NIARY_TALLY_VENISIA,
+      SenegalLandmark.NIARY_TALLY_PHARMACIE_COOPE,
+      SenegalLandmark.NIARY_TALLY_SEN_EAU,
+      SenegalLandmark.NIARY_TALLY_GRANDE_MOSQUEE,
+    ],
+
+    [SenegalCity.BENE_TALLY]: [
+      SenegalLandmark.BENE_TALLY_CITE_CHEIKH_AHMADOU_BAMBA,
+      SenegalLandmark.BENE_TALLY_YOUNOUSSE_AIDARA,
+      SenegalLandmark.BENE_TALLY_PHARMACIE_BENE_TALLY,
+      SenegalLandmark.BENE_TALLY_PHARMACIE_COOPE,
+      SenegalLandmark.BENE_TALLY_VENISIA,
+      SenegalLandmark.BENE_TALLY_HLM,
+    ],
 
     [SenegalCity.PARCELLE_ASSAINIE]: [
       SenegalLandmark.PARCELLE_ASSAINIE_ROND_POINT_26,
       SenegalLandmark.PARCELLE_ASSAINIE_CITE_FADIA,
       SenegalLandmark.PARCELLE_ASSAINIE_26_STADE,
       SenegalLandmark.PARCELLE_ASSAINIE_CITÉ_DAMEL,
+      SenegalLandmark.PARCELLE_ASSAINIE_POLICE,
+      SenegalLandmark.PARCELLE_ASSAINIE_MARCHE,
+      SenegalLandmark.PARCELLE_ASSAINIE_PHARMACIE_PARCELLOISE,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_7,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_8,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_12,
-      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_21,
-      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_20,
-      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_19,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_13,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_15,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_17,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_19,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_20,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_21,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_24,
+      SenegalLandmark.PARCELLE_ASSAINIE_UNITE_26,
     ],
 
     [SenegalCity.LIBERTE_1]: [SenegalLandmark.LIBERTE_1_BRT],
@@ -342,21 +396,17 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SCAT_URBAM_KEUR_FATOU,
       SenegalLandmark.SCAT_URBAM_BRT,
       SenegalLandmark.SCAT_URBAM_AUCHAN,
-    ],
-
-    [SenegalCity.NIARY_TALLY]: [
-      SenegalLandmark.NIARY_TALLY_BRIOCHE_DOREE,
-      SenegalLandmark.NIARY_TALLY_JET_EAU,
-    ],
-
-    [SenegalCity.BENE_TALLY]: [
-      SenegalLandmark.BENE_TALLY_CITE_CHEIKH_AHMADOU_BAMBA,
-      SenegalLandmark.BENE_TALLY_YOUNOUSSE_AIDARA,
+      SenegalLandmark.SCAT_URBAM_HOPITAL_AMERICAIN,
+      SenegalLandmark.SCAT_URBAM_BRIOCHE_DOREE,
+      SenegalLandmark.SCAT_URBAM_ROND_POINT_MAIRIE,
     ],
 
     [SenegalCity.GIBRALTAR]: [],
 
-    [SenegalCity.CAMBERENE]: [SenegalLandmark.CAMBERENE_PHARMACIE_MARY_FAMA],
+    [SenegalCity.CAMBERENE]: [
+      SenegalLandmark.CAMBERENE_PHARMACIE_MARY_FAMA,
+      SenegalLandmark.CAMBERENE_TALLI_NDIAGA_MBAYE,
+    ],
 
     [SenegalCity.MEDINA]: [
       SenegalLandmark.MEDINA_BRIOCHE_DOREE,
@@ -367,6 +417,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_35_X_26,
       SenegalLandmark.MEDINA_RUE_6_X_19,
       SenegalLandmark.MEDINA_BRT,
+      SenegalLandmark.MEDINA_RUE_6_X_9,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [SenegalLandmark.HLM_GRAND_MEDINE_VDN],
@@ -374,6 +425,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.FASS]: [
       SenegalLandmark.FASS_MARCHE,
       SenegalLandmark.FASS_COLOBANE,
+      SenegalLandmark.FASS_BRT,
     ],
 
     [SenegalCity.NGOR]: [
@@ -382,6 +434,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NGOR_BRIOCHE_DOREE,
       SenegalLandmark.NGOR_STADE,
       SenegalLandmark.NGOR_CREDIT_MUTUELLE,
+      SenegalLandmark.NGOR_NDIOGORANE,
     ],
 
     [SenegalCity.ALMADIES]: [
@@ -392,6 +445,11 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ALMADIES_KATIA,
       SenegalLandmark.ALMADIES_STATION_SHELL,
       SenegalLandmark.ALMADIES_AGENCE_ORANGE,
+      SenegalLandmark.ALMADIES_KING_FAHD_PALACE,
+      SenegalLandmark.ALMADIES_BOA,
+      SenegalLandmark.ALMADIES_ZONE_DE_RECASEMENT,
+      SenegalLandmark.ALMADIES_BI_HOTEL,
+      SenegalLandmark.ALMADIES_TEMOIN_DE_JEHOVAH,
     ],
 
     [SenegalCity.GUEULE_TAPEE]: [SenegalLandmark.GUEULE_TAPEE_SOUMBEDIOUNE],
@@ -406,6 +464,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SACRE_COEUR_BRT,
       SenegalLandmark.SACRE_COEUR_AMINATA_TALL,
       SenegalLandmark.SACRE_COEUR_IPG,
+      SenegalLandmark.SACRE_COEUR_COLLEGE,
     ],
 
     [SenegalCity.MERMOZ]: [
@@ -418,6 +477,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MERMOZ_SIPRES_3,
       SenegalLandmark.MERMOZ_AUCHAN,
       SenegalLandmark.MERMOZ_CITE_BATRAIN,
+      SenegalLandmark.MERMOZ_CASE_DES_TOUT_PETITS,
     ],
 
     [SenegalCity.MAMELLE]: [
@@ -433,11 +493,14 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MAMELLE_MONUMENT,
       SenegalLandmark.MAMELLE_CITE_ASECNA,
       SenegalLandmark.MAMELLE_IMMEUBLE_MARIAMA,
+      SenegalLandmark.MAMELLE_ARRET_P7,
+      SenegalLandmark.MAMELLE_EUROMED,
     ],
 
     [SenegalCity.ZONE_DE_CAPTAGE]: [
       SenegalLandmark.ZONE_DE_CAPTAGE_BRIOCHE_DOREE,
       SenegalLandmark.ZONE_DE_CAPTAGE_STATION,
+      SenegalLandmark.ZONE_DE_CAPTAGE_MOSQUEE,
     ],
 
     [SenegalCity.KHAR_YALLA]: [
@@ -445,6 +508,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KHAR_YALLA_STATION,
       SenegalLandmark.KHAR_YALLA_ECOLE_NOTRE_DAME_DU_LIBAN,
       SenegalLandmark.KHAR_YALLA_PHARMACIE_BAGDAD,
+      SenegalLandmark.KHAR_YALLA_TALI_CARREAUX,
     ],
 
     [SenegalCity.FANN]: [SenegalLandmark.FANN_AUCHAN],
@@ -465,16 +529,32 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_ECOLE_JAPONAISE,
       SenegalLandmark.HANN_MARISTE_EDK,
       SenegalLandmark.HANN_MARISTE_ECOLE_CEM,
+      SenegalLandmark.HANN_MARISTE_BANQUE_CBAO,
     ],
   },
   [SenegalDepartment.GUEDIAWAYE]: {
     [SenegalCity.CITE_FADIA]: [SenegalLandmark.CITE_FADIA_BRT],
     [SenegalCity.GOLF_SUD]: [SenegalLandmark.GOLF_SUD_CITE_ALIOUNE_SOW],
+    [SenegalCity.GADAYE]: [
+      SenegalLandmark.GADAYE_STADE,
+      SenegalLandmark.GADAYE_VDN3,
+    ],
   },
   [SenegalDepartment.KEUR_MASSAR]: {
-    [SenegalCity.MALIKA]: [],
+    [SenegalCity.MALIKA]: [
+      SenegalLandmark.MALIKA_CITE_SONATEL,
+      SenegalLandmark.MALIKA_PLAGE,
+      SenegalLandmark.MALIKA_PLAGE_PHARMACIE,
+      SenegalLandmark.MALIKA_CITE_SEYDINA_LIMAMOU_LAYE,
+    ],
     [SenegalCity.ALMADIE_2]: [SenegalLandmark.ALMADIE_2_SORTIE_9_SEDIMA],
-    [SenegalCity.JAXAAY]: [SenegalLandmark.JAXAAY_TERMINUS_VERT_BLANC],
+    [SenegalCity.JAXAAY]: [
+      SenegalLandmark.JAXAAY_TERMINUS_VERT_BLANC,
+      SenegalLandmark.JAXAAY_UNITE_5,
+      SenegalLandmark.JAXAAY_UNITE_12,
+      SenegalLandmark.JAXAAY_UNITE_15,
+      SenegalLandmark.JAXAAY_UNITE_24,
+    ],
   },
   [SenegalDepartment.PIKINE]: {
     [SenegalCity.ZAC_MBAO]: [
@@ -482,35 +562,70 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ZAC_MBAO_CITE_SONATEL,
       SenegalLandmark.ZAC_MBAO_CITE_ASSURANCE,
       SenegalLandmark.ZAC_MBAO_CITE_ENVIRONNEMENT,
+      SenegalLandmark.ZAC_MBAO_CITE_FINANCE,
+      SenegalLandmark.ZAC_MBAO_CLINIQUE_NABY,
+      SenegalLandmark.ZAC_MBAO_ROND_POINT_AXA,
+      SenegalLandmark.ZAC_MBAO_AUCHAN,
     ],
     [SenegalCity.GRAND_MBAO]: [
       SenegalLandmark.GRAND_MBAO_CITE_BAOBAB,
       SenegalLandmark.GRAND_MBAO_CITE_ELEVAGE,
       SenegalLandmark.GRAND_MBAO_LYCEE_MBAO,
+      SenegalLandmark.GRAND_MBAO_ANCIEN_SENELEC,
+      SenegalLandmark.GRAND_MBAO_CITE_BAY_NIASS,
     ],
     [SenegalCity.PETIT_MBAO]: [
       SenegalLandmark.PETIT_MBAO_CITE_ADJA_MAREME,
       SenegalLandmark.PETIT_MBAO_CROISEMENT_KEUR_MASSAR,
       SenegalLandmark.PETIT_MBAO_VILLENEUVE,
+      SenegalLandmark.PETIT_MBAO_CITE_DABAKH,
+      SenegalLandmark.PETIT_MBAO_ARRET_SEN_MOUNTAKHA,
+      SenegalLandmark.PETIT_MBAO_ARRET_BOULANGERIE_BOULEVARD,
     ],
     [SenegalCity.THIAROYE]: [
       SenegalLandmark.THIAROYE_AZURE_CITE_KHADIJA,
       SenegalLandmark.THIAROYE_FASS_MBAO,
       SenegalLandmark.THIAROYE_TALLY_DIALLO,
     ],
-    [SenegalCity.KEUR_MBAYE_FALL]: [SenegalLandmark.KEUR_MBAYE_FALL_CITE_POSTE],
-    [SenegalCity.YEUMBEUL]: [SenegalLandmark.YEUMBEUL_BEN_BARACK],
+    [SenegalCity.KEUR_MBAYE_FALL]: [
+      SenegalLandmark.KEUR_MBAYE_FALL_CITE_POSTE,
+      SenegalLandmark.KEUR_MBAYE_FALL_TALLY_CARREAUX,
+      SenegalLandmark.KEUR_MBAYE_FALL_TER,
+    ],
+    [SenegalCity.YEUMBEUL]: [
+      SenegalLandmark.YEUMBEUL_BEN_BARACK,
+      SenegalLandmark.YEUMBEUL_TER,
+      SenegalLandmark.YEUMBEUL_ASECNA,
+    ],
     [SenegalCity.MBAO]: [],
     [SenegalCity.DALIFORT]: [
       SenegalLandmark.DALIFORT_MARISTE,
       SenegalLandmark.DALIFORT_CEM,
     ],
+    [SenegalCity.DAGOUDANE]: [SenegalLandmark.DAGOUDANE_TALLI_CARREAU],
+    [SenegalCity.TALI_BOU_MAK]: [SenegalLandmark.TALI_BOU_MAK_CBAO],
   },
   [SenegalDepartment.RUFISQUE]: {
-    [SenegalCity.SANGALKAM]: [SenegalLandmark.SANGALKAM_ECOLE_AMADOU],
-    [SenegalCity.BARGNY]: [],
-    [SenegalCity.DIAMNIADIO]: [SenegalLandmark.DIAMNIADIO_NORD_POSTE_DOUANE],
-    [SenegalCity.BAMBILOR]: [],
+    [SenegalCity.LAC_ROSE]: [SenegalLandmark.LAC_ROSE_MAISON_AKON],
+    [SenegalCity.NDIAKHIRATE]: [SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE],
+    [SenegalCity.GOUYE_MOURIDE]: [
+      SenegalLandmark.GOUYE_MOURIDE_TERRAIN_FOOTBALL,
+    ],
+    [SenegalCity.BARGNY]: [SenegalLandmark.BARGNY_NORD],
+    [SenegalCity.KOUNOUNE]: [
+      SenegalLandmark.KOUNOUNE_CITE_ICS,
+      SenegalLandmark.KOUNOUNE_CENTRALE,
+    ],
+
+    [SenegalCity.DIAMNIADIO]: [
+      SenegalLandmark.DIAMNIADIO_NORD_POSTE_DOUANE,
+      SenegalLandmark.DIAMNIADIO_DOUGAR,
+    ],
+    [SenegalCity.BAMBILOR]: [SenegalLandmark.BAMBILOR_CITE_COMICO],
+    [SenegalCity.KEUR_NDIAYE_LO]: [
+      SenegalLandmark.KEUR_NDIAYE_LO_SORTIE_10,
+      SenegalLandmark.KEUR_NDIAYE_LO__CITE_NOUVEL_HORIZON,
+    ],
     [SenegalCity.TIVAOUANE_PEULH]: [
       SenegalLandmark.TIVAOUANE_PEULH_CITE_APIX,
       SenegalLandmark.TIVAOUANE_PEULH_MARCHE,
@@ -523,6 +638,26 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.SALY]: [
       SenegalLandmark.SALY_BAMBARA,
       SenegalLandmark.SALY_JOSEPH,
+      SenegalLandmark.SALY_GOLF,
+      SenegalLandmark.SALY_DIAMBAR,
+      SenegalLandmark.SALY_STATION,
+    ],
+    [SenegalCity.TOUBAB_DIALAW]: [
+      SenegalLandmark.TOUBAB_DIALAW_HOTEL_IRIS,
+      SenegalLandmark.TOUBAB_DIALAW_HOTEL_ESCALE,
+      SenegalLandmark.TOUBAB_DIALAW_ECOLE_KIDS_ACADEMY,
+    ],
+    [SenegalCity.NIANING]: [SenegalLandmark.NIANING_STATION_ELTON],
+    [SenegalCity.MALIKOUNDA]: [SenegalLandmark.MALIKOUNDA_SORTIE_PEAGE],
+    [SenegalCity.MBOUR]: [
+      SenegalLandmark.MBOUR_SANDIARA,
+      SenegalLandmark.MBOUR_MEDINE,
+    ],
+    [SenegalCity.NGAPAROU]: [],
+    [SenegalCity.SOMONE]: [],
+    [SenegalCity.NDAYANE]: [SenegalLandmark.NDAYANE_HOTEL_PIERRE_DE_LISSE],
+    [SenegalCity.YENNE_SUR_MER]: [
+      SenegalLandmark.YENNE_SUR_MER_STATION_TITAN_OIL,
     ],
   },
 };
