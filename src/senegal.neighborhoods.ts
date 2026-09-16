@@ -468,6 +468,17 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CAMBERENE_PHARMACIE_MARY_FAMA,
       SenegalLandmark.CAMBERENE_TALLI_NDIAGA_MBAYE,
       SenegalLandmark.CAMBERENE_BRT,
+      SenegalLandmark.CAMBERENE_MARCHE,
+      SenegalLandmark.CAMBERENE_MAIRIE,
+      SenegalLandmark.CAMBERENE_POSTE_DE_SANTE,
+      SenegalLandmark.CAMBERENE_ROND_POINT,
+      SenegalLandmark.CAMBERENE_UNITE_5,
+      SenegalLandmark.CAMBERENE_NATIONS_UNIES,
+      SenegalLandmark.CAMBERENE_VDN,
+      SenegalLandmark.CAMBERENE_ONAS,
+      SenegalLandmark.CAMBERENE_MAISON_ANCIEN_DIRECTEUR_SENELEC,
+      SenegalLandmark.CAMBERENE_STATION_API,
+      SenegalLandmark.CAMBERENE_CIMETIERE,
     ],
 
     [SenegalCity.MEDINA]: [
@@ -639,6 +650,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GOLF_SUD_CITE_ALIOUNE_SOW_BRT,
       SenegalLandmark.GOLF_SUD_CITE_FADIA,
       SenegalLandmark.GOLF_SUD_LAS_PALMAS,
+      SenegalLandmark.GOLF_SUD_ANCIENNE_POLICE,
+      SenegalLandmark.GOLF_SUD_MARCHE_JEUDI,
+      SenegalLandmark.GOLF_SUD_STATION_DIAL_MBAYE,
     ],
     [SenegalCity.GADAYE]: [
       SenegalLandmark.GADAYE_STADE,
@@ -715,6 +729,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.DALIFORT]: [
       SenegalLandmark.DALIFORT_MARISTE,
       SenegalLandmark.DALIFORT_CEM,
+      SenegalLandmark.DALIFORT_CROISEMENT_CAMBERENE,
     ],
     [SenegalCity.DAGOUDANE]: [SenegalLandmark.DAGOUDANE_TALLI_CARREAU],
     [SenegalCity.TALI_BOU_MAK]: [SenegalLandmark.TALI_BOU_MAK_CBAO],
