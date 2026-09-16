@@ -590,12 +590,28 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ALMADIES_HOTEL_FANA,
     ],
 
-    [SenegalCity.GUEULE_TAPEE]: [SenegalLandmark.GUEULE_TAPEE_SOUMBEDIOUNE],
+    [SenegalCity.GUEULE_TAPEE]: [
+      SenegalLandmark.GUEULE_TAPEE_SOUMBEDIOUNE,
+      SenegalLandmark.GUEULE_TAPEE_UNIVERSITE,
+      SenegalLandmark.GUEULE_TAPEE_HOPITAL_ELISABETH_DIOUF,
+      SenegalLandmark.GUEULE_TAPEE_CLAUDEL,
+      SenegalLandmark.GUEULE_TAPEE_SERVICE_HYGIENE,
+      SenegalLandmark.GUEULE_TAPEE_HOPITAL_ABASS_NDAO,
+      SenegalLandmark.GUEULE_TAPEE_CORNICHE,
+      SenegalLandmark.GUEULE_TAPEE_FANN_HOCK,
+      SenegalLandmark.GUEULE_TAPEE_MOSQUEE,
+      SenegalLandmark.GUEULE_TAPEE_IMMEUBE_DIEZE_B,
+      SenegalLandmark.GUEULE_TAPEE_DELAFOSSE,
+    ],
 
     [SenegalCity.FANN]: [
       SenegalLandmark.FANN_HOCK,
       SenegalLandmark.FANN_RESIDENCE,
       SenegalLandmark.FANN_AUCHAN,
+      SenegalLandmark.FANN_MERMOZ,
+      SenegalLandmark.FANN_UCAD,
+      SenegalLandmark.FANN_CORNICHE,
+      SenegalLandmark.FANN_HOPITAL,
     ],
 
     [SenegalCity.SACRE_COEUR]: [
