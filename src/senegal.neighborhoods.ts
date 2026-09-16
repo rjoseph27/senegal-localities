@@ -436,6 +436,11 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SCAT_URBAM_HOPITAL_AMERICAIN,
       SenegalLandmark.SCAT_URBAM_BRIOCHE_DOREE,
       SenegalLandmark.SCAT_URBAM_ROND_POINT_MAIRIE,
+      SenegalLandmark.SCAT_URBAM_PHARMACIE_SHELTER,
+      SenegalLandmark.SCAT_URBAM_UNO,
+      SenegalLandmark.SCAT_URBAM_PENTOLA,
+      SenegalLandmark.SCAT_URBAM_CONACHAP,
+      SenegalLandmark.SCAT_URBAM_STADE_LLS,
     ],
 
     [SenegalCity.GIBRALTAR]: [],
@@ -455,6 +460,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_6_X_19,
       SenegalLandmark.MEDINA_BRT,
       SenegalLandmark.MEDINA_RUE_6_X_9,
+      SenegalLandmark.MEDINA_STADE,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [SenegalLandmark.HLM_GRAND_MEDINE_VDN],
@@ -472,6 +478,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NGOR_STADE,
       SenegalLandmark.NGOR_CREDIT_MUTUELLE,
       SenegalLandmark.NGOR_NDIOGORANE,
+      SenegalLandmark.NGOR_PHARMACIE_NGOR,
     ],
 
     [SenegalCity.ALMADIES]: [
@@ -502,6 +509,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SACRE_COEUR_AMINATA_TALL,
       SenegalLandmark.SACRE_COEUR_IPG,
       SenegalLandmark.SACRE_COEUR_COLLEGE,
+      SenegalLandmark.SACRE_COEUR_CITE_KEUR_GORGUI,
     ],
 
     [SenegalCity.MERMOZ]: [
@@ -559,6 +567,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.POINT_E_AUCHAN,
       SenegalLandmark.POINT_E_PISCINE_OLYMPIQUE,
       SenegalLandmark.POINT_E_ISM,
+      SenegalLandmark.POINT_E_AMITIE,
     ],
 
     [SenegalCity.SICAP_KARACK]: [
@@ -574,6 +583,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_BANQUE_CBAO,
       SenegalLandmark.HANN_MARISTE_BRIOCHE_DOREE,
       SenegalLandmark.HANN_MARISTE_DJAMIL_CARREAUX,
+      SenegalLandmark.HANN_MARISTE_PHARMACIE,
     ],
   },
   [SenegalDepartment.GUEDIAWAYE]: {
