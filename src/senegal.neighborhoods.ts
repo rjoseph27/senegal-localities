@@ -499,6 +499,23 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_39_X_30,
       SenegalLandmark.MEDINA_PLACE_DE_LA_NATION,
       SenegalLandmark.MEDINA_LYCÉE_KENNEDY,
+      SenegalLandmark.MEDINA_CORNICHE_OUEST,
+      SenegalLandmark.MEDINA_RUE_6_X_3,
+      SenegalLandmark.MEDINA_RUE_11,
+      SenegalLandmark.MEDINA_RUE_31_X_BLAISE_DIAGNE,
+      SenegalLandmark.MEDINA_RUE_25_X_2,
+      SenegalLandmark.MEDINA_CARAMEL,
+      SenegalLandmark.MEDINA_RUE_5_X_6,
+      SenegalLandmark.MEDINA_RUE_19_X_10,
+      SenegalLandmark.MEDINA_DOUTA_SECK,
+      SenegalLandmark.MEDINA_SANDAGA,
+      SenegalLandmark.MEDINA_RUE_5,
+      SenegalLandmark.MEDINA_RUE_15_X_CORNICHE,
+      SenegalLandmark.MEDINA_RUE_17_X_22,
+      SenegalLandmark.MEDINA_RUE_9_X_BLAISE_DIAGNE,
+      SenegalLandmark.MEDINA_RUE_6,
+      SenegalLandmark.MEDINA_RUE_8,
+      SenegalLandmark.MEDINA_RUE_25_X_C,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [SenegalLandmark.HLM_GRAND_MEDINE_VDN],
@@ -519,6 +536,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NGOR_NDIOGORANE,
       SenegalLandmark.NGOR_PHARMACIE_NGOR,
       SenegalLandmark.NGOR_MAIRIE,
+      SenegalLandmark.NGOR_TERMINUS_35,
     ],
 
     [SenegalCity.ALMADIES]: [
@@ -632,6 +650,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_DJAMIL_CARREAUX,
       SenegalLandmark.HANN_MARISTE_PHARMACIE,
       SenegalLandmark.HANN_MARISTE_RESIDENCE_LES_DUNES,
+      SenegalLandmark.HANN_MARISTE_CHOUMIMI,
+      SenegalLandmark.HANN_MARISTE_PHARMACIE_TOUBA,
     ],
 
     [SenegalCity.HANN_BEL_AIR]: [
@@ -774,6 +794,11 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.KEUR_ISSA]: [
       SenegalLandmark.KEUR_ISSA_ARRET_TATA_7,
       SenegalLandmark.KEUR_ISSA_POSTE_SANTE,
+    ],
+    [SenegalCity.MEDINA_FALL]: [
+      SenegalLandmark.MEDINA_FALL_LYCEE,
+      SenegalLandmark.MEDINA_FALL_DON_BOSCO,
+      SenegalLandmark.MEDINA_FALL_PHARMACIE_LAMPE_FALL,
     ],
   },
   [SenegalDepartment.PETITE_COTE]: {
