@@ -962,7 +962,10 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.TALI_BOU_MAK]: [SenegalLandmark.TALI_BOU_MAK_CBAO],
   },
   [SenegalDepartment.RUFISQUE]: {
-    [SenegalCity.LAC_ROSE]: [SenegalLandmark.LAC_ROSE_MAISON_AKON],
+    [SenegalCity.LAC_ROSE]: [
+      SenegalLandmark.LAC_ROSE_MAISON_AKON,
+      SenegalLandmark.LAC_ROSE_TERMINUS_85,
+    ],
     [SenegalCity.NDIAKHIRATE]: [
       SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE,
       SenegalLandmark.NDIAKHIRATE_SANGALKAM,
@@ -1002,6 +1005,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.TIVAOUANE_PEULH_ARRET_BAYE_NIASS,
       SenegalLandmark.TIVAOUANE_PEULH_ECOLE_KASANGA,
       SenegalLandmark.TIVAOUANE_PEULH_CITE_SOPE_NABY,
+      SenegalLandmark.TIVAOUANE_PEULH_CITE_SOCABEC,
+      SenegalLandmark.TIVAOUANE_PEULH_MARCHE_TOLOU_TOUBAB,
     ],
   },
   [SenegalDepartment.THIES]: {
@@ -1138,6 +1143,16 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.TOUBAB_DIALAW_HOTEL_IRIS,
       SenegalLandmark.TOUBAB_DIALAW_HOTEL_ESCALE,
       SenegalLandmark.TOUBAB_DIALAW_ECOLE_KIDS_ACADEMY,
+      SenegalLandmark.TOUBAB_DIALAW_ECOLE_DJARAMA,
+      SenegalLandmark.TOUBAB_DIALAW_ECOLE_JEAN_BOSCO,
+      SenegalLandmark.TOUBAB_DIALAW_ECOLE_DES_SABLES,
+      SenegalLandmark.TOUBAB_DIALAW_AMADOU_BA,
+      SenegalLandmark.TOUBAB_DIALAW_HOTEL_BLACK_AND_WHITE,
+      SenegalLandmark.TOUBAB_DIALAW_PORT_NDAYANE,
+      SenegalLandmark.TOUBAB_DIALAW_GENDARMERIE,
+      SenegalLandmark.TOUBAB_DIALAW_CHAMPS_LIBANAIS,
+      SenegalLandmark.TOUBAB_DIALAW_CENTRE_FIFA,
+      SenegalLandmark.TOUBAB_DIALAW_ECOLE_PRIVEE,
     ],
   },
 };
