@@ -195,6 +195,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.OUAKAM_BASE_MILLITAIRE,
       SenegalLandmark.OUAKAM_UNIVERSITE_HAMPATE_BAS,
       SenegalLandmark.OUAKAM_TERRAIN_NAR_YI,
+      SenegalLandmark.OUAKAM_MAIRIE,
+      SenegalLandmark.OUAKAM_YUM_YUM,
     ],
 
     [SenegalCity.LIBERTE_6]: [
@@ -529,6 +531,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_25_X_C,
       SenegalLandmark.MEDINA_RUE_12_X_22,
       SenegalLandmark.MEDINA_RUE_6_X_CORNICHE,
+      SenegalLandmark.MEDINA_RUE_25,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [
@@ -646,6 +649,14 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MERMOZ_CITE_BATRAIN,
       SenegalLandmark.MERMOZ_CASE_DES_TOUT_PETITS,
       SenegalLandmark.MERMOZ_ROND_POINT_STATION_STAR,
+      SenegalLandmark.MERMOZ_COMICO,
+      SenegalLandmark.MERMOZ_CINEMA_PATHE,
+      SenegalLandmark.MERMOZ_DIOMAYE_FAYE,
+      SenegalLandmark.MERMOZ_MOSQUEE,
+      SenegalLandmark.MERMOZ_ECOBANK,
+      SenegalLandmark.MERMOZ_IAM,
+      SenegalLandmark.MERMOZ_PYROTECHNIE,
+      SenegalLandmark.MERMOZ_SONATEL,
     ],
 
     [SenegalCity.CITE_KEUR_GORGUI]: [
@@ -672,6 +683,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MAMELLE_ARRET_P7,
       SenegalLandmark.MAMELLE_EUROMED,
       SenegalLandmark.MAMELLE_AMBASSADE_DU_GUINEE,
+      SenegalLandmark.MAMELLE_TERMINUS_OUAKAM,
     ],
 
     [SenegalCity.ZONE_DE_CAPTAGE]: [
@@ -732,6 +744,20 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_BEL_AIR_YARAKH,
       SenegalLandmark.HANN_BEL_AIR_YARAKH_DALIFORT,
       SenegalLandmark.HANN_BEL_AIR_PORT,
+    ],
+
+    [SenegalCity.GOREE]: [
+      SenegalLandmark.GOREE_MAISON_DES_ESCLAVES,
+      SenegalLandmark.GOREE_FORT_DESTREES,
+      SenegalLandmark.GOREE_MUSEE_HISTORIQUE,
+      SenegalLandmark.GOREE_MUSEE_DE_LA_MER,
+      SenegalLandmark.GOREE_EGLISE_SAINT_CHARLES_BORROMEE,
+      SenegalLandmark.GOREE_MOSQUEE,
+      SenegalLandmark.GOREE_CASTEL,
+      SenegalLandmark.GOREE_PORT,
+      SenegalLandmark.GOREE_PLAGE_DEBARCADERE,
+      SenegalLandmark.GOREE_MAISON_CRESPIN,
+      SenegalLandmark.GOREE_INSTITUT,
     ],
   },
   [SenegalDepartment.GUEDIAWAYE]: {
