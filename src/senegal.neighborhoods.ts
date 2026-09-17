@@ -198,6 +198,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.OUAKAM_MAIRIE,
       SenegalLandmark.OUAKAM_YUM_YUM,
       SenegalLandmark.OUAKAM_CREDIT_MUTUEL,
+      SenegalLandmark.OUAKAM_TERMINUS_42,
+      SenegalLandmark.OUAKAM_TERMINUS_44,
     ],
 
     [SenegalCity.LIBERTE_6]: [
@@ -301,6 +303,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIEUPPEUL_DERKLE_BRT,
       SenegalLandmark.DIEUPPEUL_DERKLE_POLICE,
       SenegalLandmark.DIEUPPEUL_DERKLE_CLINIQUE_CROIX_BLEUE,
+      SenegalLandmark.DIEUPPEUL_DERKLE_ROUTE_P13,
     ],
 
     [SenegalCity.PLATEAU]: [
@@ -550,7 +553,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.FASS_BRT,
       SenegalLandmark.FASS_PAILLOTE,
       SenegalLandmark.FASS_CANAL,
-      SenegalLandmark.FASS_ANNE_MARIE,
+      SenegalLandmark.FASS_ANNE_MARIE_JAVOUHEY,
       SenegalLandmark.FASS_TERRAIN_BASKET,
       SenegalLandmark.FASS_ISM,
     ],
@@ -672,7 +675,18 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_KEUR_GORGUI_SUMA,
     ],
 
-    [SenegalCity.AMITIE]: [SenegalLandmark.AMITIE_3_CASINO_LIBERTE],
+    [SenegalCity.AMITIE]: [
+      SenegalLandmark.AMITIE_3_CASINO_LIBERTE,
+      SenegalLandmark.AMITIE_POINT_E,
+      SenegalLandmark.AMITIE_TERRAIN_BASKET,
+      SenegalLandmark.AMITIE_BRT,
+      SenegalLandmark.AMITIE_BOURGUIBA,
+      SenegalLandmark.AMITIE_ABDOULAYE_WADE,
+      SenegalLandmark.AMITIE_ZONE_A,
+      SenegalLandmark.AMITIE_ZONE_B,
+      SenegalLandmark.AMITIE_AUCHAN_POINT_E,
+      SenegalLandmark.AMITIE_VDN,
+    ],
 
     [SenegalCity.MAMELLE]: [
       SenegalLandmark.MAMELLE_CITE_CHEIKH_AMAR,
@@ -684,7 +698,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MAMELLE_PHARMACIE_ADJA_DABA_DIAGNE,
       SenegalLandmark.MAMELLE_RENAISSANCE,
       SenegalLandmark.MAMELLE_CITE_DES_ENSEIGNANTS,
-      SenegalLandmark.MAMELLE_MONUMENT,
+      SenegalLandmark.MAMELLE_MONUMENT_DE_LA_RENAISSANCE,
       SenegalLandmark.MAMELLE_CITE_ASECNA,
       SenegalLandmark.MAMELLE_IMMEUBLE_MARIAMA,
       SenegalLandmark.MAMELLE_ARRET_P7,
@@ -885,7 +899,10 @@ export const SENEGAL_NEIGHBORHOODS = {
   },
   [SenegalDepartment.RUFISQUE]: {
     [SenegalCity.LAC_ROSE]: [SenegalLandmark.LAC_ROSE_MAISON_AKON],
-    [SenegalCity.NDIAKHIRATE]: [SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE],
+    [SenegalCity.NDIAKHIRATE]: [
+      SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE,
+      SenegalLandmark.NDIAKHIRATE_SANGALKAM,
+    ],
     [SenegalCity.GOUYE_MOURIDE]: [
       SenegalLandmark.GOUYE_MOURIDE_TERRAIN_FOOTBALL,
     ],
