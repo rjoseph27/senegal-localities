@@ -939,6 +939,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_MBAYE_FALL_CEM,
       SenegalLandmark.KEUR_MBAYE_FALL_CITE_HOLDING_BAOBAB,
       SenegalLandmark.KEUR_MBAYE_FALL_PHARMACIE,
+      SenegalLandmark.KEUR_MBAYE_FALL_TOLL_DIAZ,
     ],
     [SenegalCity.YEUMBEUL]: [
       SenegalLandmark.YEUMBEUL_BEN_BARACK,
@@ -976,6 +977,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KOUNOUNE_TERMINUS_BUS_45,
       SenegalLandmark.KOUNOUNE_CITE_ANCAR,
       SenegalLandmark.KOUNOUNE_BASE_MILLITAIRE,
+      SenegalLandmark.KOUNOUNE_ALMADIE_2,
     ],
 
     [SenegalCity.DIAMNIADIO]: [
@@ -1105,11 +1107,32 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MBOUR_TIOCE_OUEST,
       SenegalLandmark.MBOUR_TOUBA_CARRIERE,
     ],
-    [SenegalCity.NGAPAROU]: [SenegalLandmark.NGAPAROU_DREVE_DES_BELGES],
-    [SenegalCity.SOMONE]: [SenegalLandmark.SOMONE_HOTEL_ROYAL_BAOBAB],
-    [SenegalCity.NDAYANE]: [SenegalLandmark.NDAYANE_HOTEL_PIERRE_DE_LISSE],
-    [SenegalCity.YENNE_SUR_MER]: [
-      SenegalLandmark.YENNE_SUR_MER_STATION_TITAN_OIL,
+    [SenegalCity.NGAPAROU]: [
+      SenegalLandmark.NGAPAROU_DREVE_DES_BELGES,
+      SenegalLandmark.NGAPAROU_NDIOP,
+      SenegalLandmark.NGAPAROU_STATION_SHELL,
+      SenegalLandmark.NGAPAROU_CANDA,
+      SenegalLandmark.NGAPAROU_ROND_POINT_SORTIE_15,
+      SenegalLandmark.NGAPAROU_ECOLE_BILLINGUE,
+      SenegalLandmark.NGAPAROU_ROND_POINT,
+      SenegalLandmark.NGAPAROU_GENDARMERIE,
+      SenegalLandmark.NGAPAROU_SALY_CENTER,
+      SenegalLandmark.NGAPAROU_AUCHAN,
+      SenegalLandmark.NGAPAROU_CENTRE_EQUESTRE,
+      SenegalLandmark.NGAPAROU_ROUTE_MAIRIE,
+      SenegalLandmark.NGAPAROU_PADEL,
+      SenegalLandmark.NGAPAROU_ALLEE_MILLIARDAIRE,
+      SenegalLandmark.NGAPAROU_NGUERIGNE,
+    ],
+    [SenegalCity.SOMONE]: [
+      SenegalLandmark.SOMONE_HOTEL_ROYAL_BAOBAB,
+      SenegalLandmark.SOMONE_HOTEL_AIGRETTES,
+      SenegalLandmark.SOMONE_CITE_SONATEL,
+      SenegalLandmark.SOMONE_LAGUNE,
+      SenegalLandmark.SOMONE_MARCHE_ARTISANAL,
+      SenegalLandmark.SOMONE_AFRICAN_QUEEN,
+      SenegalLandmark.SOMONE_PLAGE,
+      SenegalLandmark.SOMONE_CANDA,
     ],
     [SenegalCity.TOUBAB_DIALAW]: [
       SenegalLandmark.TOUBAB_DIALAW_HOTEL_IRIS,

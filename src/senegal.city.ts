@@ -86,6 +86,4 @@ export enum SenegalCity {
   MBOUR = "MBOUR",
   NGAPAROU = "NGAPAROU",
   SOMONE = "SOMONE",
-  NDAYANE = "NDAYANE",
-  YENNE_SUR_MER = "YENNE_SUR_MER",
 }
