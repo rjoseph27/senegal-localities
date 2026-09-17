@@ -147,6 +147,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SICAP_FOIRE_PRESTIGE_DECO,
       SenegalLandmark.SICAP_FOIRE_IMPOT_ET_DOMAINE,
       SenegalLandmark.SICAP_FOIRE_MUR,
+      SenegalLandmark.SICAP_FOIRE_IMMEUBLE_PLATINIUM,
     ],
 
     [SenegalCity.SUD_FOIRE]: [
@@ -413,7 +414,11 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_23_POLICE,
     ],
 
-    [SenegalCity.LIBERTE_1]: [SenegalLandmark.LIBERTE_1_BRT],
+    [SenegalCity.LIBERTE_1]: [
+      SenegalLandmark.LIBERTE_1_BRT,
+      SenegalLandmark.LIBERTE_1_COLLEGE_SACRE_COEUR,
+      SenegalLandmark.LIBERTE_1_AVENUE_BOURGUIBA,
+    ],
 
     [SenegalCity.LIBERTE_2]: [
       SenegalLandmark.LIBERTE_2_ANCIENNE_MAIRIE,
@@ -523,6 +528,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_8,
       SenegalLandmark.MEDINA_RUE_25_X_C,
       SenegalLandmark.MEDINA_RUE_12_X_22,
+      SenegalLandmark.MEDINA_RUE_6_X_CORNICHE,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [
@@ -625,6 +631,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SACRE_COEUR_COLLEGE,
       SenegalLandmark.SACRE_COEUR_CITE_KEUR_GORGUI,
       SenegalLandmark.SACRE_COEUR_ECOLE_BEM,
+      SenegalLandmark.SACRE_COEUR_AUCHAN,
+      SenegalLandmark.SACRE_COEUR_BEM,
     ],
 
     [SenegalCity.MERMOZ]: [
@@ -632,16 +640,21 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MERMOZ_SICAP_BAOBAB,
       SenegalLandmark.MERMOZ_CITE_KEUR_GORGUI,
       SenegalLandmark.MERMOZ_SOTRAC,
-      SenegalLandmark.MERMOZ_AMITIE_3_CASINO_LIBERTE,
       SenegalLandmark.MERMOZ_VDN,
       SenegalLandmark.MERMOZ_SIPRES_3,
       SenegalLandmark.MERMOZ_AUCHAN,
       SenegalLandmark.MERMOZ_CITE_BATRAIN,
       SenegalLandmark.MERMOZ_CASE_DES_TOUT_PETITS,
-      SenegalLandmark.MERMOZ_CITE_KEUR_GORGUI_AUCHAN,
-      SenegalLandmark.MERMOZ_CITE_KEUR_GORGUI_BRIOCHE_DOREE,
       SenegalLandmark.MERMOZ_ROND_POINT_STATION_STAR,
     ],
+
+    [SenegalCity.CITE_KEUR_GORGUI]: [
+      SenegalLandmark.CITE_KEUR_GORGUI_AUCHAN,
+      SenegalLandmark.CITE_KEUR_GORGUI_BRIOCHE_DOREE,
+      SenegalLandmark.CITE_KEUR_GORGUI_SENELEC,
+    ],
+
+    [SenegalCity.AMITIE]: [SenegalLandmark.AMITIE_3_CASINO_LIBERTE],
 
     [SenegalCity.MAMELLE]: [
       SenegalLandmark.MAMELLE_CITE_CHEIKH_AMAR,
@@ -658,6 +671,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MAMELLE_IMMEUBLE_MARIAMA,
       SenegalLandmark.MAMELLE_ARRET_P7,
       SenegalLandmark.MAMELLE_EUROMED,
+      SenegalLandmark.MAMELLE_AMBASSADE_DU_GUINEE,
     ],
 
     [SenegalCity.ZONE_DE_CAPTAGE]: [
@@ -686,6 +700,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.POINT_E_ISM,
       SenegalLandmark.POINT_E_AMITIE,
       SenegalLandmark.POINT_E_MOSQUEE,
+      SenegalLandmark.POINT_E_BRT,
+      SenegalLandmark.POINT_E_BANQUE_BAOBAB,
     ],
 
     [SenegalCity.SICAP_KARACK]: [
@@ -709,6 +725,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_ECOLE_HANN,
       SenegalLandmark.HANN_MARISTE_MOSQUEE_KEUR_NGOR,
       SenegalLandmark.HANN_MARISTE_AUCHAN,
+      SenegalLandmark.HANN_MARISTE_STADE,
     ],
 
     [SenegalCity.HANN_BEL_AIR]: [
