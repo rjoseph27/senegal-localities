@@ -197,6 +197,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.OUAKAM_TERRAIN_NAR_YI,
       SenegalLandmark.OUAKAM_MAIRIE,
       SenegalLandmark.OUAKAM_YUM_YUM,
+      SenegalLandmark.OUAKAM_CREDIT_MUTUEL,
     ],
 
     [SenegalCity.LIBERTE_6]: [
@@ -414,6 +415,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_12_CITE_DE_DIOUMA_SEIGNEUR_CHEIKH,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_15_VDN,
       SenegalLandmark.PARCELLE_ASSAINIE_UNITE_23_POLICE,
+      SenegalLandmark.PARCELLE_ASSAINIE_TALLY_ABDOU_GUITTE_SECK,
     ],
 
     [SenegalCity.LIBERTE_1]: [
@@ -663,6 +665,11 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_KEUR_GORGUI_AUCHAN,
       SenegalLandmark.CITE_KEUR_GORGUI_BRIOCHE_DOREE,
       SenegalLandmark.CITE_KEUR_GORGUI_SENELEC,
+      SenegalLandmark.CITE_KEUR_GORGUI_VDN,
+      SenegalLandmark.CITE_KEUR_GORGUI_ELITE_COFFEE,
+      SenegalLandmark.CITE_KEUR_GORGUI_CLINIQUE,
+      SenegalLandmark.CITE_KEUR_GORGUI_ROND_POINT,
+      SenegalLandmark.CITE_KEUR_GORGUI_SUMA,
     ],
 
     [SenegalCity.AMITIE]: [SenegalLandmark.AMITIE_3_CASINO_LIBERTE],
@@ -684,6 +691,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MAMELLE_EUROMED,
       SenegalLandmark.MAMELLE_AMBASSADE_DU_GUINEE,
       SenegalLandmark.MAMELLE_TERMINUS_OUAKAM,
+      SenegalLandmark.MAMELLE_CORNICHE,
     ],
 
     [SenegalCity.ZONE_DE_CAPTAGE]: [
@@ -738,6 +746,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_MOSQUEE_KEUR_NGOR,
       SenegalLandmark.HANN_MARISTE_AUCHAN,
       SenegalLandmark.HANN_MARISTE_STADE,
+      SenegalLandmark.HANN_MARISTE_ECOLE_AMERICAINE,
     ],
 
     [SenegalCity.HANN_BEL_AIR]: [
@@ -807,6 +816,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.JAXAAY_UNITE_12,
       SenegalLandmark.JAXAAY_UNITE_15,
       SenegalLandmark.JAXAAY_UNITE_24,
+      SenegalLandmark.JAXAAY_CITE_GENDARMERIE,
     ],
   },
   [SenegalDepartment.PIKINE]: {
@@ -935,7 +945,10 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.TOUBAB_DIALAW_ECOLE_KIDS_ACADEMY,
     ],
     [SenegalCity.NIANING]: [SenegalLandmark.NIANING_STATION_ELTON],
-    [SenegalCity.MALIKOUNDA]: [SenegalLandmark.MALIKOUNDA_SORTIE_PEAGE],
+    [SenegalCity.MALIKOUNDA]: [
+      SenegalLandmark.MALIKOUNDA_SORTIE_PEAGE,
+      SenegalLandmark.MALIKOUNDA_KEUR_MALICK_BA,
+    ],
     [SenegalCity.MBOUR]: [
       SenegalLandmark.MBOUR_SANDIARA,
       SenegalLandmark.MBOUR_MEDINE,
