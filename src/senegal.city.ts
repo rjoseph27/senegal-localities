@@ -48,6 +48,7 @@ export enum SenegalCity {
   GOREE = "GOREE",
   GOLF_SUD = "GOLF_SUD",
   GADAYE = "GADAYE",
+  HAMO_6 = "HAMO_6",
   CITE_FADIA = "CITE_FADIA",
   MALIKA = "MALIKA",
   ALMADIE_2 = "ALMADIE_2",
