@@ -61,6 +61,7 @@ export enum SenegalCity {
   YEUMBEUL = "YEUMBEUL",
   THIAROYE = "THIAROYE",
   DIAMAGUENE = "DIAMAGUENE",
+  TIVAOUANE_DIAKSAO = "TIVAOUANE_DIAKSAO",
   GUINAW_RAILS = "GUINAW_RAILS",
   PIKINE = "PIKINE",
   KEUR_MBAYE_FALL = "KEUR_MBAYE_FALL",
@@ -83,7 +84,11 @@ export enum SenegalCity {
   MEDINA_FALL = "MEDINA_FALL",
   HERSENT = "HERSENT",
   KEUR_ISSA = "KEUR_ISSA",
+  POUT = "POUT",
   SALY = "SALY",
+  NGUEKOKH = "NGUEKOKH",
+  SINDIA = "SINDIA",
+  NGUERIGNE_BAMBARA = "NGUERIGNE_BAMBARA",
   TOUBAB_DIALAW = "TOUBAB_DIALAW",
   NIANING = "NIANING",
   WARANG = "WARANG",
@@ -93,8 +98,6 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
 
   /**
-   * Diamaguene
-   *
    * Fahu
    * Nguinth
    * Mbour 3
@@ -126,5 +129,7 @@ export enum SenegalCity {
    * quartier Darou Salam
    * HLM Route de Mbour
    * Quartier Bahdate
+   *
+   * pout
    */
 }
