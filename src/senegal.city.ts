@@ -78,6 +78,7 @@ export enum SenegalCity {
   MBOUR_4 = "MBOUR_4",
   DIXIEME = "DIXIEME",
   MEDINA_FALL = "MEDINA_FALL",
+  HERSENT = "HERSENT",
   KEUR_ISSA = "KEUR_ISSA",
   SALY = "SALY",
   TOUBAB_DIALAW = "TOUBAB_DIALAW",
@@ -89,7 +90,6 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
 
   /**
-   * Hersent
    * Fahu
    * Nguinth
    * Mbour 3
