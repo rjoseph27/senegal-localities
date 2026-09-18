@@ -554,6 +554,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_6_X_CORNICHE,
       SenegalLandmark.MEDINA_RUE_25,
       SenegalLandmark.MEDINA_RUE_43_X_28,
+      SenegalLandmark.MEDINA_RUE_22,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [
@@ -665,6 +666,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SACRE_COEUR_BEM,
       SenegalLandmark.SACRE_COEUR_CLINIQUE_MEDICKANE,
       SenegalLandmark.SACRE_COEUR_JVC,
+      SenegalLandmark.SACRE_COEUR_GOOD_RADE,
     ],
 
     [SenegalCity.MERMOZ]: [
@@ -1007,6 +1009,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.THIAROYE_AZURE_CITE_BAGDAD,
       SenegalLandmark.THIAROYE_CAMPS_MILITAIRE,
       SenegalLandmark.THIAROYE_ROCHETTE,
+      SenegalLandmark.THIAROYE_TALLI_CARREAU,
     ],
     [SenegalCity.DIAMAGUENE]: [
       SenegalLandmark.DIAMAGUENE_ARRET_DIACKSAO,
@@ -1041,6 +1044,21 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PIKINE_TOUBA_CERAS,
       SenegalLandmark.PIKINE_CITE_SAMASSA,
       SenegalLandmark.PIKINE_EDK_OIL,
+      SenegalLandmark.PIKINE_TALI_BOU_MAK_CBAO,
+      SenegalLandmark.PIKINE_TALI_BOU_MAK_MOSQUEE,
+      SenegalLandmark.PIKINE_TALI_BOU_MAK,
+      SenegalLandmark.PIKINE_TALI_BOU_BESS,
+      SenegalLandmark.PIKINE_TECHNOPOLE,
+      SenegalLandmark.PIKINE_ICOTAF,
+      SenegalLandmark.PIKINE_BOUNTOU,
+      SenegalLandmark.PIKINE_RUE_10,
+      SenegalLandmark.PIKINE_HOPITAL_NIASS,
+      SenegalLandmark.PIKINE_POLICE,
+      SenegalLandmark.PIKINE_ECOLE_ALPHA_LAM,
+      SenegalLandmark.PIKINE_ICOTAF_CROIX_ROUGE,
+      SenegalLandmark.PIKINE_ANCIENNE_MAIRIE,
+      SenegalLandmark.PIKINE_LYCEE,
+      SenegalLandmark.PIKINE_TRIBUNAL,
     ],
     [SenegalCity.KEUR_MBAYE_FALL]: [
       SenegalLandmark.KEUR_MBAYE_FALL_CITE_POSTE,
@@ -1118,15 +1136,13 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DALIFORT_HACIENDA,
       SenegalLandmark.DALIFORT_CITE_SOLEIL,
     ],
-    [SenegalCity.DAGOUDANE]: [SenegalLandmark.DAGOUDANE_TALLI_CARREAU],
-    [SenegalCity.TALI_BOU_MAK]: [SenegalLandmark.TALI_BOU_MAK_CBAO],
-    [SenegalCity.TALI_BOU_BESS]: [],
   },
   [SenegalDepartment.RUFISQUE]: {
     [SenegalCity.LAC_ROSE]: [
       SenegalLandmark.LAC_ROSE_MAISON_AKON,
       SenegalLandmark.LAC_ROSE_TERMINUS_85,
       SenegalLandmark.LAC_ROSE_KEUR_SIMBIRI,
+      SenegalLandmark.LAC_ROSE_CEM_NIAGUE,
     ],
     [SenegalCity.NDIAKHIRATE]: [
       SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE,
