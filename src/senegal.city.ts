@@ -60,6 +60,9 @@ export enum SenegalCity {
   DALIFORT = "DALIFORT",
   YEUMBEUL = "YEUMBEUL",
   THIAROYE = "THIAROYE",
+  DIAMAGUENE = "DIAMAGUENE",
+  GUINAW_RAILS = "GUINAW_RAILS",
+  PIKINE = "PIKINE",
   KEUR_MBAYE_FALL = "KEUR_MBAYE_FALL",
   PETIT_MBAO = "PETIT_MBAO",
   GRAND_MBAO = "GRAND_MBAO",
@@ -90,10 +93,7 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
 
   /**
-   * Tivaouane Diacksao
-   * Guinaw Rails
-   *
-   *
+   * Diamaguene
    *
    * Fahu
    * Nguinth
