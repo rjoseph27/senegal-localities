@@ -908,6 +908,19 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ZAC_MBAO_USINE_FKS,
       SenegalLandmark.ZAC_MBAO_ECOLE_JUPITER,
       SenegalLandmark.ZAC_MBAO_CITE_SIDAK,
+      SenegalLandmark.ZAC_MBAO_CITE_PIA,
+      SenegalLandmark.ZAC_MBAO_EL_HEMDOULILAH,
+      SenegalLandmark.ZAC_MBAO_TAPIS_ROUGE,
+      SenegalLandmark.ZAC_MBAO_CITE_NARR,
+      SenegalLandmark.ZAC_MBAO_BRIOCHE_DOREE,
+      SenegalLandmark.ZAC_MBAO_CITE_PORT,
+      SenegalLandmark.ZAC_MBAO_ROND_POINT_GRAND_MBAO,
+      SenegalLandmark.ZAC_MBAO_TER_KEUR_MBAYE_FALL,
+      SenegalLandmark.ZAC_MBAO_STATION_EYDON,
+      SenegalLandmark.ZAC_MBAO_CITE_BINETA_THIAM,
+      SenegalLandmark.ZAC_MBAO_CITE_COLOBANE,
+      SenegalLandmark.ZAC_MBAO_HOTEL_ALIOUNE,
+      SenegalLandmark.ZAC_MBAO_TERRAIN_FOOTBALL,
     ],
     [SenegalCity.GRAND_MBAO]: [
       SenegalLandmark.GRAND_MBAO_CITE_BAOBAB,
@@ -960,6 +973,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     ],
     [SenegalCity.DAGOUDANE]: [SenegalLandmark.DAGOUDANE_TALLI_CARREAU],
     [SenegalCity.TALI_BOU_MAK]: [SenegalLandmark.TALI_BOU_MAK_CBAO],
+    [SenegalCity.TALI_BOU_BESS]: [],
   },
   [SenegalDepartment.RUFISQUE]: {
     [SenegalCity.LAC_ROSE]: [

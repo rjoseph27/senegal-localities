@@ -56,6 +56,7 @@ export enum SenegalCity {
   FASS_MBAO = "FASS_MBAO",
   DAGOUDANE = "DAGOUDANE",
   TALI_BOU_MAK = "TALI_BOU_MAK",
+  TALI_BOU_BESS = "TALI_BOU_BESS",
   DALIFORT = "DALIFORT",
   YEUMBEUL = "YEUMBEUL",
   THIAROYE = "THIAROYE",
@@ -86,4 +87,39 @@ export enum SenegalCity {
   MBOUR = "MBOUR",
   NGAPAROU = "NGAPAROU",
   SOMONE = "SOMONE",
+
+  /**
+   * Hersent
+   * Fahu
+   * Nguinth
+   * Mbour 3
+   * Diakhao
+   * Thialy
+   * Randouléne Nord
+   * Mbour 1
+   * Thies Nones
+   * Cité Lamy
+   * Mbour 2
+   * Cité Senghor
+   * Mbambara
+   * Sampathe
+   * Carrière
+   * Escale Nord
+   * Randouléne Sud
+   * Diamaguene
+   * Keur Tiem Savare
+   * Som
+   * Hlm Thialy
+   * Keur Ablaye Yakhine
+   * SOFRACO
+   * Escale Sud
+   * Keurykao
+   * cite Ibrahima Sarr Ex ballabey
+   * Cité Ousmane Ngom
+   * Cité Niakh
+   * Zone Industrielle
+   * quartier Darou Salam
+   * HLM Route de Mbour
+   * Quartier Bahdate
+   */
 }
