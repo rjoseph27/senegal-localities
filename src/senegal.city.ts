@@ -90,6 +90,11 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
 
   /**
+   * Tivaouane Diacksao
+   * Guinaw Rails
+   *
+   *
+   *
    * Fahu
    * Nguinth
    * Mbour 3
