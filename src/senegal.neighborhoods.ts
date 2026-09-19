@@ -351,6 +351,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PATTE_DOIE_BRIOCHE_DOREE,
       SenegalLandmark.PATTE_DOIE_MAIRIE,
       SenegalLandmark.PATTE_DOIE_AUCHAN,
+      SenegalLandmark.PATTE_DOIE_MOSQUE_SOPRIME,
     ],
 
     [SenegalCity.BISCUITERIE]: [
@@ -625,6 +626,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ALMADIES_CORPS_DE_LA_PAIX,
       SenegalLandmark.ALMADIES_HOTEL_FANA,
       SenegalLandmark.ALMADIES_SOCABEG,
+      SenegalLandmark.ALMADIES_ROND_POINT_NIRVANA,
     ],
 
     [SenegalCity.GUEULE_TAPEE]: [
@@ -688,6 +690,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MERMOZ_IAM,
       SenegalLandmark.MERMOZ_PYROTECHNIE,
       SenegalLandmark.MERMOZ_SONATEL,
+      SenegalLandmark.MERMOZ_STATION_ELTON,
     ],
 
     [SenegalCity.CITE_KEUR_GORGUI]: [
@@ -928,6 +931,27 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_MASSAR_CITE_EDOUARD_CAMILLE_BASSE,
       SenegalLandmark.KEUR_MASSAR_CITE_AFIA,
       SenegalLandmark.KEUR_MASSAR_CITE_PENITENCE,
+      SenegalLandmark.KEUR_MASSAR_TERRAIN_YEKINI,
+      SenegalLandmark.KEUR_MASSAR_ZONE_DE_RECASEMENT,
+      SenegalLandmark.KEUR_MASSAR_TERMINUS_71,
+      SenegalLandmark.KEUR_MASSAR_AUCHAN,
+      SenegalLandmark.KEUR_MASSAR_BRIOCHE_DOREE,
+      SenegalLandmark.KEUR_MASSAR_MARCHE,
+      SenegalLandmark.KEUR_MASSAR_DIBITERIE,
+      SenegalLandmark.KEUR_MASSAR_CHEIKH_LO,
+      SenegalLandmark.KEUR_MASSAR_LYCEE,
+      SenegalLandmark.KEUR_MASSAR_UNITE_4_PHAMARCIE_LOGO,
+      SenegalLandmark.KEUR_MASSAR_TERMINUS_61,
+      SenegalLandmark.KEUR_MASSAR_SENELEC,
+      SenegalLandmark.KEUR_MASSAR_CITE_LINGUERE,
+      SenegalLandmark.KEUR_MASSAR_ALADJI_PATHE,
+      SenegalLandmark.KEUR_MASSAR_GARAGE_CLANDOS,
+      SenegalLandmark.KEUR_MASSAR_CITE_SAFCO,
+      SenegalLandmark.KEUR_MASSAR_ARRET_SALL,
+      SenegalLandmark.KEUR_MASSAR_BRIGADE_RECHERCHE,
+      SenegalLandmark.KEUR_MASSAR_CITE_DIENE,
+      SenegalLandmark.KEUR_MASSAR_TERMINUS_DEM_DIK,
+      SenegalLandmark.KEUR_MASSAR_DJAMIL_CARREAUX,
     ],
     [SenegalCity.ALMADIE_2]: [
       SenegalLandmark.ALMADIE_2_SORTIE_9,
@@ -945,6 +969,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ALMADIE_2_TERRAIN_FOOTBALL,
       SenegalLandmark.ALMADIE_2_PHARMACIE,
       SenegalLandmark.ALMADIE_2_MARINE_FRANCAISE,
+      SenegalLandmark.ALMADIE_2_CITE_JAMILA,
+      SenegalLandmark.ALMADIE_2_ECOLE_KHELCOM,
+      SenegalLandmark.ALMADIE_2_TERRAIN_BASKETBALL,
     ],
     [SenegalCity.JAXAAY]: [
       SenegalLandmark.JAXAAY_TERMINUS_VERT_BLANC,
