@@ -901,6 +901,16 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GOLF_UVS,
       SenegalLandmark.GOLF_EDK,
       SenegalLandmark.GOLF_CITE_ENSEIGNANT,
+      SenegalLandmark.GOLF_HAMO_TEFESS,
+      SenegalLandmark.GOLF_PAI,
+      SenegalLandmark.GOLF_CENTRE_SAUVEGARDE,
+      SenegalLandmark.GOLF_RAVIN,
+      SenegalLandmark.GOLF_ARRET_DIAL_MBAYE,
+      SenegalLandmark.GOLF_KEUR_AZIZ_NDIAYE,
+      SenegalLandmark.GOLF_TALLY_CARREAU_BI,
+      SenegalLandmark.GOLF_CITE_BARRY_ET_LY,
+      SenegalLandmark.GOLF_MARCHE_MAME_DIARRA,
+      SenegalLandmark.GOLF_CHEIKH_WADE,
     ],
     [SenegalCity.CITE_FADIA]: [
       SenegalLandmark.CITE_FADIA_BRT,
@@ -922,6 +932,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GADAYE_ROND_POINT,
       SenegalLandmark.GADAYE_TERMINUS_BRT,
       SenegalLandmark.GADAYE_WAROUWAY,
+      SenegalLandmark.GADAYE_CITE_DES_MAGISTRATS,
     ],
     [SenegalCity.WAKHINANE_NIMZATT]: [
       SenegalLandmark.WAKHINANE_NIMZATT_MARCHE_KHELCOM,
@@ -945,6 +956,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.WAKHINANE_NIMZATT_LYCEE_SEYDINA_LIMAMOU_LAHI,
       SenegalLandmark.WAKHINANE_NIMZATT_FOYER_DES_JEUNES,
       SenegalLandmark.WAKHINANE_NIMZATT_SERIGNE_ASSANE,
+      SenegalLandmark.WAKHINANE_NIMZATT_VDN3,
     ],
     [SenegalCity.NDIAREME_LIMAMOULAYE]: [
       SenegalLandmark.NDIAREME_LIMAMOULAYE_MARCHE,
@@ -962,6 +974,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SAM_NOTAIRE_STATION_CANADA,
       SenegalLandmark.SAM_NOTAIRE_MARCHE_SAHM,
       SenegalLandmark.SAM_NOTAIRE_ARRET_DOUBLE_LESS,
+      SenegalLandmark.SAM_NOTAIRE_ROUTE_STADE_AMADOU_BARRY,
+      SenegalLandmark.SAM_NOTAIRE_GUEULE_TAPEE_2,
     ],
     [SenegalCity.MEDINA_GOUNASS]: [
       SenegalLandmark.MEDINA_GOUNASS_POSTE_GUEDIAWAYE,
@@ -1049,6 +1063,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_MASSAR_DJAMIL_CARREAUX,
       SenegalLandmark.KEUR_MASSAR_UNITE_9_MOSQUEE,
       SenegalLandmark.KEUR_MASSAR_CITE_CAMILLBAS,
+      SenegalLandmark.KEUR_MASSAR_STATION_SHELL,
+      SenegalLandmark.KEUR_MASSAR_NOUVEAU_PONT,
     ],
     [SenegalCity.ALMADIE_2]: [
       SenegalLandmark.ALMADIE_2_SORTIE_9,
