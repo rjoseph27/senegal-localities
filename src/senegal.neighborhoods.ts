@@ -39,6 +39,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.YOFF_CENTRE_AEREE_BCEAO,
       SenegalLandmark.YOFF_CHINA_MALL,
       SenegalLandmark.YOFF_HANGAR_DES_PELERINS,
+      SenegalLandmark.YOFF_VIRAGE_IMMEUBLE_INDIEN,
     ],
 
     [SenegalCity.GRAND_YOFF]: [
@@ -53,6 +54,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GRAND_YOFF_ANCIENNE_MAIRIE,
       SenegalLandmark.GRAND_YOFF_ZONE_DE_CAPTAGE,
       SenegalLandmark.GRAND_YOFF_MARCHE,
+      SenegalLandmark.GRAND_YOFF_TALLY_DABO,
     ],
 
     [SenegalCity.GRAND_DAKAR]: [
@@ -253,6 +255,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.LIBERTE_6_DEM_DIK,
       SenegalLandmark.LIBERTE_6_CONACHAP,
       SenegalLandmark.LIBERTE_6_CITE_CPI,
+      SenegalLandmark.LIBERTE_6_SACRE_COEUR,
     ],
 
     [SenegalCity.HLM]: [
@@ -571,6 +574,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_RUE_29,
       SenegalLandmark.MEDINA_RUE_39_X_20,
       SenegalLandmark.MEDINA_COLLEGE_JEAN_DE_LA_FONTAINE,
+      SenegalLandmark.MEDINA_RUE_45_X_28,
+      SenegalLandmark.MEDINA_INSTITUT_SANTE_SERVICE,
     ],
 
     [SenegalCity.HLM_GRAND_MEDINE]: [
@@ -843,6 +848,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HANN_MARISTE_ITA,
       SenegalLandmark.HANN_MARISTE_MPS,
       SenegalLandmark.HANN_MARISTE_HALWAR,
+      SenegalLandmark.HANN_MARISTE_LAC,
     ],
 
     [SenegalCity.HANN_BEL_AIR]: [
@@ -960,6 +966,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.WAKHINANE_NIMZATT_FOYER_DES_JEUNES,
       SenegalLandmark.WAKHINANE_NIMZATT_SERIGNE_ASSANE,
       SenegalLandmark.WAKHINANE_NIMZATT_VDN3,
+      SenegalLandmark.WAKHINANE_NIMZATT_CITE_AIR_AFRIQUE,
     ],
     [SenegalCity.NDIAREME_LIMAMOULAYE]: [
       SenegalLandmark.NDIAREME_LIMAMOULAYE_MARCHE,
@@ -1375,6 +1382,14 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.LAC_ROSE_CEM_NIAGUE,
       SenegalLandmark.LAC_ROSE_KEUR_MAREME_MBENGUE,
       SenegalLandmark.LAC_ROSE_TERMINUS_73,
+      SenegalLandmark.LAC_ROSE_MBERI,
+      SenegalLandmark.LAC_ROSE_YOUSSOU_NDOUR,
+      SenegalLandmark.LAC_ROSE_CITE_PREFET,
+      SenegalLandmark.LAC_ROSE_GENDARMERIE,
+      SenegalLandmark.LAC_ROSE_POSTE_SANTE,
+      SenegalLandmark.LAC_ROSE_KANIACK,
+      SenegalLandmark.LAC_ROSE_ACADEMIE_GENERATION_FOOT,
+      SenegalLandmark.LAC_ROSE_KEUR_BALLA,
     ],
     [SenegalCity.NDIAKHIRATE]: [
       SenegalLandmark.NDIAKHIRATE_CITE_DAKAR_NAVE,
@@ -1406,6 +1421,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.NIAGUE]: [
       SenegalLandmark.NIAGUE_PARADISE_CITY,
       SenegalLandmark.NIAGUE_PARADISE_CROISEMENT,
+      SenegalLandmark.NIAGUE_LYCEE,
     ],
     [SenegalCity.BAMBILOR]: [
       SenegalLandmark.BAMBILOR_CITE_COMICO,
@@ -1417,6 +1433,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.BAMBILOR_CITE_MANGUIERS,
       SenegalLandmark.BAMBILOR_CITE_CDC,
       SenegalLandmark.BAMBILOR_CITE_DES_HLM,
+      SenegalLandmark.BAMBILOR_MARIAME_FAYE_SALL,
+      SenegalLandmark.BAMBILOR_ENTREPOT,
     ],
     [SenegalCity.DENI_GUEDJ]: [SenegalLandmark.DENI_GUEDJ_SUD_ARRET_TATA_73],
     [SenegalCity.KEUR_NDIAYE_LO]: [

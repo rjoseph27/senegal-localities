@@ -103,7 +103,6 @@ export enum SenegalCity {
 
   /**
    * Sébikotane
-   * Rufisque
    *
    *
    *
