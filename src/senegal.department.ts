@@ -6,4 +6,5 @@ export enum SenegalDepartment {
   KEUR_MASSAR = "KEUR_MASSAR",
   THIES = "THIES",
   PETITE_COTE = "PETITE_COTE",
+  SAINT_LOUIS = "SAINT_LOUIS",
 }

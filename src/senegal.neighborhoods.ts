@@ -327,6 +327,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIEUPPEUL_DERKLE_ROUTE_P13,
       SenegalLandmark.DIEUPPEUL_DERKLE_ALMAHDI,
       SenegalLandmark.DIEUPPEUL_DERKLE_EGLISE_MARTYRS_OUGANDA,
+      SenegalLandmark.DIEUPPEUL_DERKLE_CEM_OUSMANE_SOCE_DIOP,
     ],
 
     [SenegalCity.PLATEAU]: [
@@ -1491,6 +1492,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIAMNIADIO_ZONE_ZERO_TEKLA,
       SenegalLandmark.DIAMNIADIO_CENTRE_DE_CONFERENCES,
       SenegalLandmark.DIAMNIADIO_SPHERES_MINISTERIELLES,
+      SenegalLandmark.DIAMNIADIO_ECOLE_3,
+      SenegalLandmark.DIAMNIADIO_USINE_HUILE_MAWAMAR,
     ],
     [SenegalCity.NIAGUE]: [
       SenegalLandmark.NIAGUE_PARADISE_CITY,
@@ -1541,6 +1544,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.BAMBILOR_MAIRIE,
       SenegalLandmark.BAMBILOR_MARCHE,
       SenegalLandmark.BAMBILOR_DENI_BIRAM_NDAO,
+      SenegalLandmark.BAMBILOR_CITE_TELUIM,
     ],
     [SenegalCity.KEUR_NDIAYE_LO]: [
       SenegalLandmark.KEUR_NDIAYE_LO_SORTIE_10,
@@ -1600,6 +1604,18 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ALMADIE_2_ECOLE_KHELCOM,
       SenegalLandmark.ALMADIE_2_TERRAIN_BASKETBALL,
       SenegalLandmark.ALMADIE_2_CITE_MARINE,
+    ],
+    [SenegalCity.SENDOU]: [
+      SenegalLandmark.SENDOU_PORT,
+      SenegalLandmark.SENDOU_ANCIENNE_MAIRIE,
+      SenegalLandmark.SENDOU_SENEGINDIA,
+      SenegalLandmark.SENDOU_MAIRIE,
+    ],
+    [SenegalCity.NOFLAYE]: [
+      SenegalLandmark.NOFLAYE_VILLAGE_TORTURE,
+      SenegalLandmark.NOFLAYE_CITE_MARISTE,
+      SenegalLandmark.NOFLAYE_CITE_DOUDOU_BASS,
+      SenegalLandmark.NOFLAYE_CENTRE_PESAGE,
     ],
   },
   [SenegalDepartment.PETITE_COTE]: {
@@ -1808,5 +1824,14 @@ export const SENEGAL_NEIGHBORHOODS = {
     ],
     [SenegalCity.HERSENT]: [SenegalLandmark.HERSENT_MARCHE],
     [SenegalCity.POUT]: [SenegalLandmark.POUT_KHININE],
+  },
+  [SenegalDepartment.SAINT_LOUIS]: {
+    [SenegalCity.SAINT_LOUIS]: [],
+    /**
+     * Mpal
+        Fass Ngom
+        Gandon
+        Gandiol
+     */
   },
 };
