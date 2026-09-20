@@ -1351,7 +1351,7 @@ export const SENEGAL_NEIGHBORHOODS = {
   },
   [SenegalDepartment.RUFISQUE]: {
     [SenegalCity.RUFISQUE]: [
-      SenegalLandmark.RUFISQUE_SOUCABEK,
+      SenegalLandmark.RUFISQUE_SOCABEG,
       SenegalLandmark.RUFISQUE_PHAMARCIE_SAINT_JOSEPH,
       SenegalLandmark.RUFISQUE_CITE_MECS,
       SenegalLandmark.RUFISQUE_QUARTIER_ARAFAT,
@@ -1488,6 +1488,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NIAGUE_PARADISE_CITY,
       SenegalLandmark.NIAGUE_PARADISE_CROISEMENT,
       SenegalLandmark.NIAGUE_LYCEE,
+      SenegalLandmark.NIAGUE_CITE_ROSE,
+      SenegalLandmark.NIAGUE_CITE_SOCABEG,
     ],
     [SenegalCity.BAMBILOR]: [
       SenegalLandmark.BAMBILOR_CITE_COMICO,
@@ -1501,6 +1503,18 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.BAMBILOR_CITE_DES_HLM,
       SenegalLandmark.BAMBILOR_MARIAME_FAYE_SALL,
       SenegalLandmark.BAMBILOR_ENTREPOT,
+      SenegalLandmark.BAMBILOR_MBEUTE,
+      SenegalLandmark.BAMBILOR_VDN3,
+      SenegalLandmark.BAMBILOR_SORTIE,
+      SenegalLandmark.BAMBILOR_SENEGINDIA,
+      SenegalLandmark.BAMBILOR_INTERNAT_HADY_NIASS,
+      SenegalLandmark.BAMBILOR_CITE_AKYS,
+      SenegalLandmark.BAMBILOR_CITE_DABAKH,
+      SenegalLandmark.BAMBILOR_STATION_SHELL,
+      SenegalLandmark.BAMBILOR_TERMINUS_87,
+      SenegalLandmark.BAMBILOR_GOROM,
+      SenegalLandmark.BAMBILOR_MAIRIE,
+      SenegalLandmark.BAMBILOR_MARCHE,
     ],
     [SenegalCity.DENI_GUEDJ]: [SenegalLandmark.DENI_GUEDJ_SUD_ARRET_TATA_73],
     [SenegalCity.KEUR_NDIAYE_LO]: [
