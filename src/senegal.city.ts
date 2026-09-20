@@ -102,7 +102,7 @@ export enum SenegalCity {
   /**
    * Sébikotane
    * noflaye
-   *
+   * sendou
    *
    *
    * Fahu
