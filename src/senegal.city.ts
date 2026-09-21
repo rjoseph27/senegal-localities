@@ -88,6 +88,7 @@ export enum SenegalCity {
   FAHU = "FAHU",
   NGUINTH = "NGUINTH",
   DIAKHAO = "DIAKHAO",
+  THIALY = "THIALY",
   LEONA = "LEONA",
   DAROU_SALAM = "DAROU_SALAM",
   CITE_SENGHOR = "CITE_SENGHOR",
