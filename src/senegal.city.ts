@@ -83,8 +83,22 @@ export enum SenegalCity {
   NOFLAYE = "NOFLAYE",
   SEBIKOTANE = "SEBIKOTANE",
   GRAND_STANDING = "GRAND_STANDING",
+  THIES_NORD = "THIES_NORD",
+  ZAC = "ZAC",
+  FAHU = "FAHU",
+  NGUINTH = "NGUINTH",
+  DIAKHAO = "DIAKHAO",
+  LEONA = "LEONA",
+  CITE_MALICK_SY = "CITE_MALICK_SY",
+  CENTREVILLE = "CENTREVILLE",
   PARCELLE_ASSAINIE_THIES = "PARCELLE_ASSAINIE_THIES",
   MBOUR_4 = "MBOUR_4",
+  KEUR_MASSAMBA_GUEYE = "KEUR_MASSAMBA_GUEYE",
+  MBOUR_1 = "MBOUR_1",
+  SUD_STADE = "SUD_STADE",
+  NASROU = "NASROU",
+  RANDOULENE = "RANDOULENE",
+  CITE_OUVRIERE = "CITE_OUVRIERE",
   DIXIEME = "DIXIEME",
   MEDINA_FALL = "MEDINA_FALL",
   HERSENT = "HERSENT",
@@ -103,40 +117,4 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
   SAINT_LOUIS = "SAINT_LOUIS",
   NGALLELE = "NGALLELE",
-
-  /**
-   * Fahu
-   * Nguinth
-   * Mbour 3
-   * Diakhao
-   * Thialy
-   * Randouléne Nord
-   * Mbour 1
-   * Thies Nones
-   * Cité Lamy
-   * Mbour 2
-   * Cité Senghor
-   * Mbambara
-   * Sampathe
-   * Carrière
-   * Escale Nord
-   * Randouléne Sud
-   * Diamaguene
-   * Keur Tiem Savare
-   * Som
-   * Hlm Thialy
-   * Keur Ablaye Yakhine
-   * SOFRACO
-   * Escale Sud
-   * Keurykao
-   * cite Ibrahima Sarr Ex ballabey
-   * Cité Ousmane Ngom
-   * Cité Niakh
-   * Zone Industrielle
-   * quartier Darou Salam
-   * HLM Route de Mbour
-   * Quartier Bahdate
-   *
-   * pout
-   */
 }
