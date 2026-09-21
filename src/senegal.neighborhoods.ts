@@ -1917,6 +1917,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.FAHU_ARRET_TATA_3,
       SenegalLandmark.FAHU_POULAILLER,
       SenegalLandmark.FAHU_RONGUA,
+      SenegalLandmark.FAHU_ECOLE_MASSAMBA,
     ],
     [SenegalCity.PARCELLE_ASSAINIE_THIES]: [
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_UNITE_5_CIMETIERE,
@@ -2043,8 +2044,19 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.THIAPONG_ZAC,
       SenegalLandmark.THIAPONG_ECOLE_PRIMAIRE,
       SenegalLandmark.THIAPONG_STATION_NAFIO,
+      SenegalLandmark.THIAPONG_ROUTE_ISEP,
+      SenegalLandmark.THIAPONG_MARCHE_AUX_POISSONS,
+      SenegalLandmark.THIAPONG_CEDAF,
+      SenegalLandmark.THIAPONG_QUINCAILLERIE_MBALLO,
+      SenegalLandmark.THIAPONG_LYCEE_TECHNIQUE,
+      SenegalLandmark.THIAPONG_GRANDE_MOSQUEE,
+      SenegalLandmark.THIAPONG_DEUX_VOIES_NGUINTH,
     ],
+    [SenegalCity.THIONAKH]: [SenegalLandmark.THIONAKH_LYCEE_TECHNIQUE],
     [SenegalCity.CITE_DABAKH]: [],
+    [SenegalCity.CITE_KEUR_KHADIM]: [
+      SenegalLandmark.CITE_KEUR_KHADIM_TERRAIN_FOOT,
+    ],
     [SenegalCity.RANDOULENE]: [SenegalLandmark.RANDOULENE_GRAND_AUCHAN],
     [SenegalCity.CITE_OUVRIERE]: [
       SenegalLandmark.CITE_OUVRIERE_SALLE_DE_SPORT,
@@ -2078,6 +2090,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.CITE_SENGHOR]: [
       SenegalLandmark.CITE_SENGHOR_ROBINET_BAGARRE,
       SenegalLandmark.CITE_SENGHOR_RUE_VERS_CHAMPS_DE_COURSE,
+      SenegalLandmark.CITE_SENGHOR_STATION_SHELL,
     ],
     [SenegalCity.CITE_SIDAK]: [
       SenegalLandmark.CITE_SIDAK_ELEVAGE,
@@ -2107,6 +2120,7 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Thies Nones
      * Cité Lamy
      * Aiglon
+     * Nimzat
      * bountou depot
      * Mbambara
      * Escale Nord
@@ -2122,8 +2136,8 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Cité Niakh
      * Zone Industrielle
      * HLM Route de Mbour
-     * Quartier Bahdate
-     * THIONAKH PEULH (LYCEE TECHNIQUE)
+     * Quartier Bahdate (BAKHDATE?)
+     * THIONAKH PEULH (THIONAKH?)
      */
   },
 };
