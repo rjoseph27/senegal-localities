@@ -1892,6 +1892,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ZAC_ECOLE_PEDAGOGIQUE,
       SenegalLandmark.ZAC_LYCEE_TECHNIQUE,
       SenegalLandmark.ZAC_MAIRIE,
+      SenegalLandmark.ZAC_AFIA,
     ],
     [SenegalCity.SOM]: [
       SenegalLandmark.SOM_LYCEE_MALICK_SY,
@@ -1911,6 +1912,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.FAHU_LYCEE,
       SenegalLandmark.FAHU_NOUVELLE_PHARMACIE,
       SenegalLandmark.FAHU_MOSQUEE,
+      SenegalLandmark.FAHU_ARRET_TATA_3,
     ],
     [SenegalCity.PARCELLE_ASSAINIE_THIES]: [
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_UNITE_5_CIMETIERE,
@@ -1991,9 +1993,22 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_FALL_TALI_BOU_BESS,
     ],
     [SenegalCity.HERSENT]: [
-      SenegalLandmark.HERSENT_MARCHE,
+      SenegalLandmark.HERSENT_MARCHE_KHELCOM,
       SenegalLandmark.HERSENT_DAROU_SALAM,
       SenegalLandmark.HERSENT_NOUVEAU_LYCEE,
+      SenegalLandmark.HERSENT_LYCEE_AMADOU_NDACK_SECK,
+      SenegalLandmark.HERSENT_STATION_SGF,
+      SenegalLandmark.HERSENT_ECOLE_KABA_SALL,
+      SenegalLandmark.HERSENT_IMMEUBLE_JEF_JEUL,
+      SenegalLandmark.HERSENT_ECOLE_PRIMAIRE,
+      SenegalLandmark.HERSENT_TALLY_CARREAUX,
+      SenegalLandmark.HERSENT_PARKING_SAMBA_THIAW,
+      SenegalLandmark.HERSENT_STATION_SERIGNE_GUEYE,
+      SenegalLandmark.HERSENT_PALAIS_DOR,
+      SenegalLandmark.HERSENT_POSTE_SANTE,
+      SenegalLandmark.HERSENT_MARCHE_KHEULGUA,
+      SenegalLandmark.HERSENT_DIAKAY_BEN_SOROL,
+      SenegalLandmark.HERSENT_LANS,
     ],
     [SenegalCity.SUD_STADE]: [
       SenegalLandmark.SUD_STADE_BRIOCHE_DOREE,
@@ -2001,7 +2016,11 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SUD_STADE_HOPITAL_GERIATRIQUE,
     ],
     [SenegalCity.NASROU]: [SenegalLandmark.NASROU_TERRAIN_DENTEL],
-    [SenegalCity.SOMPATHE]: [SenegalLandmark.SOMPATHE_NOUVEAU_LYCEE],
+    [SenegalCity.SAMPATHE]: [
+      SenegalLandmark.SAMPATHE_NOUVEAU_LYCEE,
+      SenegalLandmark.SAMPATHE_ECOLE_ALBINOS,
+      SenegalLandmark.SAMPATHE_BOULANGERIE_NAR_BI,
+    ],
     [SenegalCity.THIAPONG]: [
       SenegalLandmark.THIAPONG_ZAC,
       SenegalLandmark.THIAPONG_ECOLE_PRIMAIRE,
@@ -2062,7 +2081,6 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Cité Lamy
      * Aiglon
      * bountou depot
-     * Cité Senghor
      * Mbambara
      * Escale Nord
      * Keur Tiem Savare
@@ -2078,6 +2096,7 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Zone Industrielle
      * HLM Route de Mbour
      * Quartier Bahdate
+     * THIONAKH PEULH (LYCEE TECHNIQUE)
      */
   },
 };
