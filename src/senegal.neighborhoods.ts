@@ -1845,12 +1845,36 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.POUT]: [SenegalLandmark.POUT_KHININE],
   },
   [SenegalDepartment.SAINT_LOUIS]: {
-    [SenegalCity.SAINT_LOUIS]: [],
-    /**
-     * Mpal
-        Fass Ngom
-        Gandon
-        Gandiol
-     */
+    [SenegalCity.SAINT_LOUIS]: [
+      SenegalLandmark.SAINT_LOUIS_CORNICHE,
+      SenegalLandmark.SAINT_LOUIS_VILLAGE_ARTISANAL,
+      SenegalLandmark.SAINT_LOUIS_LEONA,
+      SenegalLandmark.SAINT_LOUIS_MOSQUE_MASSAMBA_DIARRA,
+      SenegalLandmark.SAINT_LOUIS_MEDINA_BOIS,
+      SenegalLandmark.SAINT_LOUIS_NDIOLOFENE,
+      SenegalLandmark.SAINT_LOUIS_MOSQUEE_RAWANE_NGOME,
+      SenegalLandmark.SAINT_LOUIS_PIKINE,
+      SenegalLandmark.SAINT_LOUIS_CITE_NIAKH,
+      SenegalLandmark.SAINT_LOUIS_CENTRE_VILLE,
+      SenegalLandmark.SAINT_LOUIS_BRIOCHE_DOREE,
+      SenegalLandmark.SAINT_LOUIS_DAROU,
+      SenegalLandmark.SAINT_LOUIS_PLACE_BAYA,
+      SenegalLandmark.SAINT_LOUIS_TABLEAU_WALO,
+      SenegalLandmark.SAINT_LOUIS_PIKINE_ANGLE_TALL,
+    ],
+    [SenegalCity.NGALLELE]: [
+      SenegalLandmark.NGALLELE_MATFORCE,
+      SenegalLandmark.NGALLELE_BOULANGERIE,
+      SenegalLandmark.NGALLELE_ZONE_MEDICALE,
+    ],
+    [SenegalCity.BOUDIOUCK]: [
+      SenegalLandmark.BOUDIOUCK_ARRET_AIDA,
+      SenegalLandmark.BOUDIOUCK_CITE_PMS,
+      SenegalLandmark.BOUDIOUCK_CITE_SAED,
+    ],
+    [SenegalCity.BONGO]: [SenegalLandmark.BONGO_11],
+    [SenegalCity.UGB]: [SenegalLandmark.UGB, SenegalLandmark.UGB_CITE_PRITANEE],
+    [SenegalCity.NDIAWSIR]: [SenegalLandmark.NDIAWSIR_ECOLE_ELEMETAIRE],
+    [SenegalCity.MAKA_TOUBE]: [SenegalLandmark.MAKA_TOUBE_LYCEE],
   },
 };
