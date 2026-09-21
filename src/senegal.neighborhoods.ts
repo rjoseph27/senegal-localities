@@ -276,6 +276,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HLM_OUAGOU_NIAYES,
       SenegalLandmark.HLM_POLICE,
       SenegalLandmark.HLM_VENISA,
+      SenegalLandmark.HLM_4_BOULANGERIE_BAYE_GAINDE,
+      SenegalLandmark.HLM_ANCIENNE_POLICE,
     ],
 
     [SenegalCity.CASTOR]: [
@@ -695,6 +697,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SACRE_COEUR_JVC,
       SenegalLandmark.SACRE_COEUR_GOOD_RADE,
       SenegalLandmark.SACRE_COEUR_SIEGE_PAPE_DIOP,
+      SenegalLandmark.SACRE_COEUR_CEM_DAVE_DIOP,
     ],
 
     [SenegalCity.MERMOZ]: [
@@ -1545,6 +1548,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.BAMBILOR_MARCHE,
       SenegalLandmark.BAMBILOR_DENI_BIRAM_NDAO,
       SenegalLandmark.BAMBILOR_CITE_TELUIM,
+      SenegalLandmark.BAMBILOR_CITE_AZIZ_NDIAYE,
     ],
     [SenegalCity.KEUR_NDIAYE_LO]: [
       SenegalLandmark.KEUR_NDIAYE_LO_SORTIE_10,
@@ -1616,6 +1620,21 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NOFLAYE_CITE_MARISTE,
       SenegalLandmark.NOFLAYE_CITE_DOUDOU_BASS,
       SenegalLandmark.NOFLAYE_CENTRE_PESAGE,
+    ],
+    [SenegalCity.SEBIKOTANE]: [
+      SenegalLandmark.SEBIKOTANE_STATION_NEPTURNE,
+      SenegalLandmark.SEBIKOTANE_XEWEUL,
+      SenegalLandmark.SEBIKOTANE_SEBI_GARE,
+      SenegalLandmark.SEBIKOTANE_TERMINUS_53,
+      SenegalLandmark.SEBIKOTANE_ECOLE_ELEMENTAIRE,
+      SenegalLandmark.SEBIKOTANE_SORTIE_AUTOROUTE_PEAGE,
+      SenegalLandmark.SEBIKOTANE_ROND_POINT_TER,
+      SenegalLandmark.SEBIKOTANE_KHOUTANE_SERERE,
+      SenegalLandmark.SEBIKOTANE_TER,
+      SenegalLandmark.SEBIKOTANE_CEM_EXCELLENCE,
+      SenegalLandmark.SEBIKOTANE_STATION_TOTAL,
+      SenegalLandmark.SEBIKOTANE_QUARTIER_NDOYENNE,
+      SenegalLandmark.SEBIKOTANE_ROND_POINT_PEAGE,
     ],
   },
   [SenegalDepartment.PETITE_COTE]: {

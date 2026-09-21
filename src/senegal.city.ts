@@ -81,6 +81,7 @@ export enum SenegalCity {
   TIVAOUANE_PEULH = "TIVAOUANE_PEULH",
   SENDOU = "SENDOU",
   NOFLAYE = "NOFLAYE",
+  SEBIKOTANE = "SEBIKOTANE",
   GRAND_STANDING = "GRAND_STANDING",
   PARCELLE_ASSAINIE_THIES = "PARCELLE_ASSAINIE_THIES",
   MBOUR_4 = "MBOUR_4",
@@ -103,11 +104,6 @@ export enum SenegalCity {
   SAINT_LOUIS = "SAINT_LOUIS",
 
   /**
-   * Sébikotane
-   *
-   *
-   *
-   *
    * Fahu
    * Nguinth
    * Mbour 3
