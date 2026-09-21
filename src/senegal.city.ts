@@ -103,11 +103,6 @@ export enum SenegalCity {
   SOMONE = "SOMONE",
   SAINT_LOUIS = "SAINT_LOUIS",
   NGALLELE = "NGALLELE",
-  BONGO = "BONGO",
-  BOUDIOUCK = "BOUDIOUCK",
-  UGB = "UGB",
-  NDIAWSIR = "NDIAWSIR",
-  MAKA_TOUBE = "MAKA_TOUBE",
 
   /**
    * Fahu
