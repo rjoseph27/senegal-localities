@@ -1913,6 +1913,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.FAHU_NOUVELLE_PHARMACIE,
       SenegalLandmark.FAHU_MOSQUEE,
       SenegalLandmark.FAHU_ARRET_TATA_3,
+      SenegalLandmark.FAHU_POULAILLER,
+      SenegalLandmark.FAHU_RONGUA,
     ],
     [SenegalCity.PARCELLE_ASSAINIE_THIES]: [
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_UNITE_5_CIMETIERE,
@@ -1975,7 +1977,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     ],
     [SenegalCity.CARRIERE]: [
       SenegalLandmark.CARRIERE_TFM,
-      SenegalLandmark.CARRIERE_STADE_MAGNANG,
+      SenegalLandmark.CARRIERE_STADE_MAGNANG_SOUMARE,
       SenegalLandmark.CARRIERE_CROISSANT_MAGIQUE,
       SenegalLandmark.CARRIERE_STATION_NAFIO,
     ],
@@ -2014,6 +2016,12 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.SUD_STADE_BRIOCHE_DOREE,
       SenegalLandmark.SUD_STADE_SOFRACO,
       SenegalLandmark.SUD_STADE_HOPITAL_GERIATRIQUE,
+      SenegalLandmark.SUD_STADE_AUTOROUTE_COTE_ANCIENNE_STATION_TOUBA_OIL,
+      SenegalLandmark.SUD_STADE_PHARMACIE_MAME_AWA_NDRIAYE,
+      SenegalLandmark.SUD_STADE_KEUR_GOUVERNEUR,
+      SenegalLandmark.SUD_STADE_STATION,
+      SenegalLandmark.SUD_STADE_DEUX_VOIES,
+      SenegalLandmark.SUD_STADE_CARREFOUR,
     ],
     [SenegalCity.NASROU]: [SenegalLandmark.NASROU_TERRAIN_DENTEL],
     [SenegalCity.SAMPATHE]: [
