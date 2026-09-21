@@ -1880,8 +1880,15 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GRAND_STANDING_HOTEL_KHADIJA,
       SenegalLandmark.GRAND_STANDING_SOFRACO,
     ],
-    [SenegalCity.THIES_NORD]: [SenegalLandmark.THIES_NORD_POLICE_CENTRALE],
     [SenegalCity.ZAC]: [SenegalLandmark.ZAC_ROND_POINT],
+    [SenegalCity.SOM]: [
+      SenegalLandmark.SOM_LYCEE_MALICK_SY,
+      SenegalLandmark.SOM_DIAKKAY_NIAHATE,
+      SenegalLandmark.SOM_MONUMENT,
+      SenegalLandmark.SOM_ROND_POINT_CONCORDE,
+      SenegalLandmark.SOM_COTE_BEDE_YACINE,
+      SenegalLandmark.SOM_ZINC,
+    ],
     [SenegalCity.FAHU]: [
       SenegalLandmark.FAHU_ECOLE_ELEMENTAIRE,
       SenegalLandmark.FAHU_SALLE_FOOT,
@@ -1895,7 +1902,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MBOUR_1_STADE_LAT_DIOR,
       SenegalLandmark.MBOUR_1_WALLY_DAAN,
       SenegalLandmark.MBOUR_1_HOPITAL_BARTHIMEE,
+      SenegalLandmark.MBOUR_1_COTE_ROND_POINT_SINDIA,
     ],
+    [SenegalCity.MBOUR_3]: [SenegalLandmark.MBOUR_3_GARAGE],
     [SenegalCity.MBOUR_4]: [
       SenegalLandmark.MBOUR_4_CITE_ENSEIGNANTS,
       SenegalLandmark.MBOUR_4_STATION_SHELL,
@@ -1909,6 +1918,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.DIXIEME]: [
       SenegalLandmark.DIXIEME_PRISON,
       SenegalLandmark.DIXIEME_MANUFACTURE,
+      SenegalLandmark.DIXIEME_AUCHAN,
     ],
     [SenegalCity.KEUR_ISSA]: [
       SenegalLandmark.KEUR_ISSA_ARRET_TATA_7,
@@ -1925,8 +1935,12 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HERSENT_NOUVEAU_LYCEE,
     ],
     [SenegalCity.POUT]: [SenegalLandmark.POUT_KHININE],
-    [SenegalCity.SUD_STADE]: [SenegalLandmark.SUD_STADE_BRIOCHE_DOREE],
+    [SenegalCity.SUD_STADE]: [
+      SenegalLandmark.SUD_STADE_BRIOCHE_DOREE,
+      SenegalLandmark.SUD_STADE_SOFRACO,
+    ],
     [SenegalCity.NASROU]: [SenegalLandmark.NASROU_TERRAIN_DENTEL],
+    [SenegalCity.CITE_DABAKH]: [SenegalLandmark.CITE_DABAKH_GARAGE],
     [SenegalCity.RANDOULENE]: [SenegalLandmark.RANDOULENE_GRAND_AUCHAN],
     [SenegalCity.CITE_OUVRIERE]: [
       SenegalLandmark.CITE_OUVRIERE_SALLE_DE_SPORT,
@@ -1947,6 +1961,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.CENTREVILLE]: [
       SenegalLandmark.CENTREVILLE_MAIRIE,
       SenegalLandmark.CENTREVILLE_ECOBANK,
+      SenegalLandmark.CENTREVILLE_POLICE_CENTRALE,
     ],
     /**
      * Fahu
