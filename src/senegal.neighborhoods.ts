@@ -1069,6 +1069,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_MASSAR_CITE_LINGUERE,
       SenegalLandmark.KEUR_MASSAR_ALADJI_PATHE,
       SenegalLandmark.KEUR_MASSAR_GARAGE_CLANDOS,
+      SenegalLandmark.KEUR_MASSAR_AMADOU_DIA,
       SenegalLandmark.KEUR_MASSAR_CITE_SAFCO,
       SenegalLandmark.KEUR_MASSAR_ARRET_SALL,
       SenegalLandmark.KEUR_MASSAR_BRIGADE_RECHERCHE,
@@ -2033,6 +2034,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.HERSENT_LANS,
       SenegalLandmark.HERSENT_BOULANGERIE,
       SenegalLandmark.HERSENT_CEM,
+      SenegalLandmark.HERSENT_LYCEE,
     ],
     [SenegalCity.SUD_STADE]: [
       SenegalLandmark.SUD_STADE_BRIOCHE_DOREE,
@@ -2163,6 +2165,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DAROU_SALAM_ECOLE_PRIMAIRE,
       SenegalLandmark.DAROU_SALAM_BOULANGERIE_SAMBA_THIAW,
       SenegalLandmark.DAROU_SALAM_MARCHE_KHEULGA,
+      SenegalLandmark.DAROU_SALAM_CEM,
     ],
     [SenegalCity.SOFRACO]: [
       SenegalLandmark.SOFRACO_GARAGE_DAKAR,
@@ -2175,6 +2178,12 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_SENGHOR_RUE_VERS_CHAMPS_DE_COURSE,
       SenegalLandmark.CITE_SENGHOR_STATION_SHELL,
       SenegalLandmark.CITE_SENGHOR_MARCHE_MOUSSANTE,
+      SenegalLandmark.CITE_SENGHOR_TALI_CARREAU,
+      SenegalLandmark.CITE_SENGHOR_PONT_SILMANG,
+      SenegalLandmark.CITE_SENGHOR_TERRAIN_SILMAN,
+    ],
+    [SenegalCity.MALAMINE_SENGHOR]: [
+      SenegalLandmark.MALAMINE_SENGHOR_MARCHE_MOUSSANTE,
     ],
     [SenegalCity.CITE_SIDAK]: [
       SenegalLandmark.CITE_SIDAK_ELEVAGE,
