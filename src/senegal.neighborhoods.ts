@@ -950,6 +950,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GADAYE_TERMINUS_BRT,
       SenegalLandmark.GADAYE_WAROUWAY,
       SenegalLandmark.GADAYE_CITE_DES_MAGISTRATS,
+      SenegalLandmark.GADAYE_CITE_IMPOT_DOMAINE,
     ],
     [SenegalCity.WAKHINANE_NIMZATT]: [
       SenegalLandmark.WAKHINANE_NIMZATT_MARCHE_KHELCOM,
@@ -975,6 +976,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.WAKHINANE_NIMZATT_SERIGNE_ASSANE,
       SenegalLandmark.WAKHINANE_NIMZATT_VDN3,
       SenegalLandmark.WAKHINANE_NIMZATT_CITE_AIR_AFRIQUE,
+      SenegalLandmark.WAKHINANE_NIMZATT_ECHANGEUR,
     ],
     [SenegalCity.NDIAREME_LIMAMOULAYE]: [
       SenegalLandmark.NDIAREME_LIMAMOULAYE_MARCHE,
@@ -1907,7 +1909,7 @@ export const SENEGAL_NEIGHBORHOODS = {
   [SenegalDepartment.THIES]: {
     [SenegalCity.GRAND_STANDING]: [
       SenegalLandmark.GRAND_STANDING_EDK,
-      SenegalLandmark.GRAND_STANDING_ECOLE_BERNADETTE,
+      SenegalLandmark.GRAND_STANDING_ECOLE_SAINT_BERNADETTE,
       SenegalLandmark.GRAND_STANDING_PEAGE,
       SenegalLandmark.GRAND_STANDING_HOTEL_KHAN_MASSAMBA,
       SenegalLandmark.GRAND_STANDING_MARCHE_SOFRACO,
@@ -1918,6 +1920,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GRAND_STANDING_SOFRACO,
       SenegalLandmark.GRAND_STANDING_GARE_ROUTIERE,
       SenegalLandmark.GRAND_STANDING_SALLE_DE_SPORT,
+      SenegalLandmark.GRAND_STANDING_RESTAURANT_KAWSARA,
     ],
     [SenegalCity.ZAC]: [
       SenegalLandmark.ZAC_ROND_POINT,
@@ -1969,6 +1972,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_UNITE_1_KEUR_IDRISSA_GAYE,
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_ARRET_TATA_10,
       SenegalLandmark.PARCELLE_ASSAINIE_THIES_POLICE,
+      SenegalLandmark.PARCELLE_ASSAINIE_THIES_HOPITAL_REGIONAL,
     ],
     [SenegalCity.MBOUR_1]: [
       SenegalLandmark.MBOUR_1_STADE_LAT_DIOR,
@@ -2257,10 +2261,28 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIAMAGUENE_THIES_ROND_POINT_CHAMPS_COURSE,
     ],
     [SenegalCity.NIMZAT]: [SenegalLandmark.NIMZAT_GRANDE_MOSQUEE],
+    [SenegalCity.THIES_NONES]: [
+      SenegalLandmark.THIES_NONES_STATION_VERT_BLANC,
+      SenegalLandmark.THIES_NONES_UNIVERSITE_IBA_DER_THIAM,
+      SenegalLandmark.THIES_NONES_CEM,
+      SenegalLandmark.THIES_NONES_ARRET_TATA_7,
+      SenegalLandmark.THIES_NONES_TABLEAU_COMMUNE,
+    ],
+    [SenegalCity.CITE_LAMY]: [
+      SenegalLandmark.CITE_LAMY_ROND_POINT,
+      SenegalLandmark.CITE_LAMY_TALLY_CARREAU,
+      SenegalLandmark.CITE_LAMY_HOPITAL_REGIONAL,
+      SenegalLandmark.CITE_LAMY_ARAB_NDIASSE_MBAYE,
+    ],
+    [SenegalCity.AIGLON]: [
+      SenegalLandmark.AIGLON_ECOLE_APLES,
+      SenegalLandmark.AIGLON_CASINO,
+      SenegalLandmark.AIGLON_MOSQUEE,
+      SenegalLandmark.AIGLON_ECOLE_GEUSTOU,
+      SenegalLandmark.AIGLON_STATION_ELTON,
+      SenegalLandmark.AIGLON_MAIRIE,
+    ],
     /**
-     * Thies Nones
-     * Cité Lamy
-     * Aiglon
      * bountou depot
      * Mbambara
      * Escale Nord
@@ -2275,6 +2297,9 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Zone Industrielle
      * HLM Route de Mbour
      * Ndouffack
+     * NGOUMSANE
+     * SAPCO
+     * cité pilot
      */
   },
 };
