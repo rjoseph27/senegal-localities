@@ -1762,6 +1762,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MBOUR_CHATEAU_EAU,
       SenegalLandmark.MBOUR_GANDIGAL,
       SenegalLandmark.MBOUR_MAISON_ALIOU_SALL,
+      SenegalLandmark.MBOUR_DIAMAGUENE_DAARA_IBOU_SAKHO,
     ],
     [SenegalCity.NGAPAROU]: [
       SenegalLandmark.NGAPAROU_DREVE_DES_BELGES,
@@ -2136,6 +2137,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_OUVRIERE_POSTE_COURANT,
       SenegalLandmark.CITE_OUVRIERE_MARCHE,
       SenegalLandmark.CITE_OUVRIERE_BALLABEY2,
+      SenegalLandmark.CITE_OUVRIERE_DIAMAGUENE,
     ],
     [SenegalCity.NGUINTH]: [
       SenegalLandmark.NGUINTH_QUINCAILLERIE_MBALO,
@@ -2151,6 +2153,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NGUINTH_TERRAIN_THIEO,
       SenegalLandmark.NGUINTH_PHARMACIE_BAKH_YAYE,
       SenegalLandmark.NGUINTH_ROND_POINT,
+      SenegalLandmark.NGUINTH_AFIA,
+      SenegalLandmark.NGUINTH_TERRAIN_SYNTHETIQUE,
     ],
     [SenegalCity.NASROU]: [
       SenegalLandmark.NASROU_TERRAIN_DENTEL,
@@ -2170,6 +2174,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIAKHAO_RAVITAILLEMENT,
       SenegalLandmark.DIAKHAO_ROND_POINT,
       SenegalLandmark.DIAKHAO_RAIL,
+      SenegalLandmark.DIAKHAO_POSTE_SANTE,
+      SenegalLandmark.DIAKHAO_MOSQUEE_ALPHA_THIOMBANE,
+      SenegalLandmark.DIAKHAO_HOPITAL_SAINT_JEAN,
     ],
     [SenegalCity.THIALY]: [
       SenegalLandmark.THIALY_LYCEE_TECHNIQUE,
@@ -2240,18 +2247,20 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CENTREVILLE_AUCHAN,
       SenegalLandmark.CENTREVILLE_HOPITAL_SAINT_JEAN,
       SenegalLandmark.CENTREVILLE_BIG_FAIM,
+      SenegalLandmark.CENTREVILLE_SERVICE_HYGIENE,
     ],
     [SenegalCity.BAKHDAD]: [SenegalLandmark.BAKHDAD_SERIGNE_KHADIM_LO_GAYDEL],
     [SenegalCity.DIAMAGUENE_THIES]: [
       SenegalLandmark.DIAMAGUENE_THIES_CAMPS_GMI,
       SenegalLandmark.DIAMAGUENE_THIES_KEUR_CHERRIF_AIDARA,
+      SenegalLandmark.DIAMAGUENE_THIES_LAOBE,
+      SenegalLandmark.DIAMAGUENE_THIES_ROND_POINT_CHAMPS_COURSE,
     ],
-    [SenegalCity.POUT]: [SenegalLandmark.POUT_KHININE],
+    [SenegalCity.NIMZAT]: [SenegalLandmark.NIMZAT_GRANDE_MOSQUEE],
     /**
      * Thies Nones
      * Cité Lamy
      * Aiglon
-     * Nimzat
      * bountou depot
      * Mbambara
      * Escale Nord
@@ -2265,7 +2274,7 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Cité Niakh
      * Zone Industrielle
      * HLM Route de Mbour
-     * Quartier Bahdate (BAKHDAD?) / bagdad
+     * Ndouffack
      */
   },
 };
