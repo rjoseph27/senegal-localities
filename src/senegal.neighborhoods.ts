@@ -1916,6 +1916,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.GRAND_STANDING_HOTEL_KHADIJA,
       SenegalLandmark.GRAND_STANDING_SOFRACO,
       SenegalLandmark.GRAND_STANDING_GARE_ROUTIERE,
+      SenegalLandmark.GRAND_STANDING_SALLE_DE_SPORT,
     ],
     [SenegalCity.ZAC]: [
       SenegalLandmark.ZAC_ROND_POINT,
@@ -2020,6 +2021,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.DIXIEME_VILLAGE_ARTISANALE,
       SenegalLandmark.DIXIEME_CROIX_ROUGE,
       SenegalLandmark.DIXIEME_HOPITAL,
+      SenegalLandmark.DIXIEME_RESIDENCE_OASIS,
     ],
     [SenegalCity.CARRIERE]: [
       SenegalLandmark.CARRIERE_TFM,
@@ -2224,6 +2226,10 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_MALICK_SY_LYCEE,
       SenegalLandmark.CITE_MALICK_SY_CNEPS,
       SenegalLandmark.CITE_MALICK_SY_CABINET_COMPTABLE_KOF,
+      SenegalLandmark.CITE_MALICK_SY_MOSQUEE,
+      SenegalLandmark.CITE_MALICK_SY_UFR_SANTE,
+      SenegalLandmark.CITE_MALICK_SY_ENSUP,
+      SenegalLandmark.CITE_MALICK_SY_MONPRIX,
     ],
     [SenegalCity.CENTREVILLE]: [
       SenegalLandmark.CENTREVILLE_MAIRIE,
@@ -2233,6 +2239,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CENTREVILLE_SENELEC,
       SenegalLandmark.CENTREVILLE_AUCHAN,
       SenegalLandmark.CENTREVILLE_HOPITAL_SAINT_JEAN,
+      SenegalLandmark.CENTREVILLE_BIG_FAIM,
     ],
     [SenegalCity.BAKHDAD]: [SenegalLandmark.BAKHDAD_SERIGNE_KHADIM_LO_GAYDEL],
     [SenegalCity.DIAMAGUENE_THIES]: [
