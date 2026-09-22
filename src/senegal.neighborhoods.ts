@@ -1313,6 +1313,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.PIKINE_BAUX_MARAICHERS,
       SenegalLandmark.PIKINE_MARCHE_CHAVANEL,
       SenegalLandmark.PIKINE_MARCHE_ZINC,
+      SenegalLandmark.PIKINE_ECOLE_SUD,
     ],
     [SenegalCity.KEUR_MBAYE_FALL]: [
       SenegalLandmark.KEUR_MBAYE_FALL_CITE_POSTE,
@@ -1930,6 +1931,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ZAC_LYCEE_TECHNIQUE,
       SenegalLandmark.ZAC_MAIRIE,
       SenegalLandmark.ZAC_AFIA,
+      SenegalLandmark.ZAC_GRANDE_MOSQUEE,
     ],
     [SenegalCity.SOM]: [
       SenegalLandmark.SOM_LYCEE_MALICK_SY,
@@ -1983,6 +1985,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.MBOUR_2]: [
       SenegalLandmark.MBOUR_2_CENTRE_HANDICAPE,
       SenegalLandmark.MBOUR_2_CEM,
+      SenegalLandmark.MBOUR_2_CLINIQUE_COUMBA,
     ],
     [SenegalCity.MBOUR_3]: [
       SenegalLandmark.MBOUR_3_EGLISE_BON_PASTEUR,
@@ -1994,6 +1997,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MBOUR_4_CITE_ENSEIGNANTS,
       SenegalLandmark.MBOUR_4_STATION_SHELL,
       SenegalLandmark.MBOUR_4_AUTOROUTE_PEAGE,
+      SenegalLandmark.MBOUR_4_ANTENNE_EMETTEUR,
     ],
     [SenegalCity.KEUR_MASSAMBA_GUEYE]: [
       SenegalLandmark.KEUR_MASSAMBA_GUEYE_STATION_MKA,
@@ -2047,6 +2051,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MEDINA_FALL_PHARMACIE_LAMPE_FALL,
       SenegalLandmark.MEDINA_FALL_POLICE,
       SenegalLandmark.MEDINA_FALL_TALI_BOU_BESS,
+      SenegalLandmark.MEDINA_FALL_ECOLE_FRANCO_ARABE,
     ],
     [SenegalCity.HERSENT]: [
       SenegalLandmark.HERSENT_MARCHE_KHELCOM,
@@ -2119,6 +2124,9 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_KEUR_KHADIM_NGOUMSANE,
       SenegalLandmark.CITE_KEUR_KHADIM_ABATOIRE_SERRAS,
       SenegalLandmark.CITE_KEUR_KHADIM_NOUVEAU_LYCEE,
+      SenegalLandmark.CITE_KEUR_KHADIM_ECOLE_PRIMAIRE,
+      SenegalLandmark.CITE_KEUR_KHADIM_STATION_DIA_OIL,
+      SenegalLandmark.CITE_KEUR_KHADIM_SERRAS,
     ],
     [SenegalCity.RANDOULENE]: [
       SenegalLandmark.RANDOULENE_GRAND_AUCHAN,
@@ -2241,6 +2249,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_MALICK_SY_UFR_SANTE,
       SenegalLandmark.CITE_MALICK_SY_ENSUP,
       SenegalLandmark.CITE_MALICK_SY_MONPRIX,
+      SenegalLandmark.CITE_MALICK_SY_RESTAURANT_KAWSARA,
     ],
     [SenegalCity.CENTREVILLE]: [
       SenegalLandmark.CENTREVILLE_MAIRIE,
@@ -2252,6 +2261,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CENTREVILLE_HOPITAL_SAINT_JEAN,
       SenegalLandmark.CENTREVILLE_BIG_FAIM,
       SenegalLandmark.CENTREVILLE_SERVICE_HYGIENE,
+      SenegalLandmark.CENTREVILLE_CASINO,
+      SenegalLandmark.CENTREVILLE_LONASE,
     ],
     [SenegalCity.BAKHDAD]: [SenegalLandmark.BAKHDAD_SERIGNE_KHADIM_LO_GAYDEL],
     [SenegalCity.DIAMAGUENE_THIES]: [
@@ -2282,20 +2293,29 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.AIGLON_STATION_ELTON,
       SenegalLandmark.AIGLON_MAIRIE,
     ],
+    [SenegalCity.BOUNTOU_DEPOT]: [SenegalLandmark.BOUNTOU_DEPOT_PHARMACIE],
+    [SenegalCity.KAOSARA]: [
+      SenegalLandmark.KAOSARA_DEPOT_GAZ,
+      SenegalLandmark.KAOSARA_STATION_OMEGA,
+      SenegalLandmark.KAOSARA_POSTE_SANTE,
+      SenegalLandmark.KAOSARA_RAIL,
+      SenegalLandmark.KAOSARA_ECOLE_MBAR,
+    ],
+    [SenegalCity.HLM_ROUTE_MBOUR]: [
+      SenegalLandmark.HLM_ROUTE_MBOUR_RESTAURANT_MADIBA,
+    ],
+
     /**
-     * bountou depot
      * Mbambara
      * Escale Nord
      * Keur Tiem Savare
      * Keur Ablaye Yakhine
      * Escale Sud
      * Keurykao
-     * kaosara / kawsara
      * cite Ibrahima Sarr Ex ballabey
      * Cité Ousmane Ngom
      * Cité Niakh
      * Zone Industrielle
-     * HLM Route de Mbour
      * Ndouffack
      * NGOUMSANE
      * SAPCO
