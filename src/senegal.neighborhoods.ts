@@ -2122,13 +2122,31 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NASROU_POSTE_POLICE_NGUINTH,
     ],
     [SenegalCity.DIAKHAO]: [
-      SenegalLandmark.DIAKHAO_BASE,
+      SenegalLandmark.DIAKHAO_BASE_MILITAIRE,
       SenegalLandmark.DIAKHAO_MARCHE,
       SenegalLandmark.DIAKHAO_DISPENSAIRE,
+      SenegalLandmark.DIAKHAO_PEPINIERE,
+      SenegalLandmark.DIAKHAO_CAMP_MICHEL,
+      SenegalLandmark.DIAKHAO_BOUTIQUE_ORANGE,
+      SenegalLandmark.DIAKHAO_RESTAURANT_KAWSARA,
+      SenegalLandmark.DIAKHAO_RAVITAILLEMENT,
+      SenegalLandmark.DIAKHAO_ROND_POINT,
+      SenegalLandmark.DIAKHAO_RAIL,
     ],
-    [SenegalCity.THIALY]: [SenegalLandmark.THIALY_LYCEE_TECHNIQUE],
+    [SenegalCity.THIALY]: [
+      SenegalLandmark.THIALY_LYCEE_TECHNIQUE,
+      SenegalLandmark.THIALY_ABATOIRE,
+      SenegalLandmark.THIALY_HOPITAL_REGIONAL,
+      SenegalLandmark.THIALY_PRESTIGE,
+      SenegalLandmark.THIALY_SALMA_TUTI,
+      SenegalLandmark.THIALY_COLLEGE_SAINT_GABRIEL,
+      SenegalLandmark.THIALY_BOULANGERIE_JAUNE,
+      SenegalLandmark.THIALY_GARAGE_MORROLAND,
+      SenegalLandmark.THIALY_UCAO,
+    ],
     [SenegalCity.LEONA]: [SenegalLandmark.LEONA_KEUR_THIEME],
     [SenegalCity.DAROU_SALAM]: [SenegalLandmark.DAROU_SALAM_ECOLE_PRIMAIRE],
+    [SenegalCity.SOFRACO]: [SenegalLandmark.SOFRACO_GARAGE_DAKAR],
     [SenegalCity.CITE_SENGHOR]: [
       SenegalLandmark.CITE_SENGHOR_ROBINET_BAGARRE,
       SenegalLandmark.CITE_SENGHOR_RUE_VERS_CHAMPS_DE_COURSE,
@@ -2170,12 +2188,10 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Mbambara
      * Escale Nord
      * Keur Tiem Savare
-     * Hlm Thialy
      * Keur Ablaye Yakhine
-     * SOFRACO
      * Escale Sud
      * Keurykao
-     * kaosara
+     * kaosara / kawsara
      * cite Ibrahima Sarr Ex ballabey
      * Cité Ousmane Ngom
      * Cité Niakh
