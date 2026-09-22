@@ -1952,6 +1952,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.MBOUR_3_EGLISE_BON_PASTEUR,
       SenegalLandmark.MBOUR_3_QUINCAILLERIE_MAME_DIARRA,
       SenegalLandmark.MBOUR_3_PHARMACIE_KHADIM_RASOUL,
+      SenegalLandmark.MBOUR_3_CLINIQUE_COUMBA,
     ],
     [SenegalCity.MBOUR_4]: [
       SenegalLandmark.MBOUR_4_CITE_ENSEIGNANTS,
@@ -1998,6 +1999,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_ISSA_POSTE_SANTE,
       SenegalLandmark.KEUR_ISSA_STATION,
       SenegalLandmark.KEUR_ISSA_PHARMACIE_MAME_ASTA_WALO,
+      SenegalLandmark.KEUR_ISSA_TALI_BOU_BESS,
     ],
     [SenegalCity.MEDINA_FALL]: [
       SenegalLandmark.MEDINA_FALL_LYCEE,
@@ -2096,6 +2098,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_OUVRIERE_PHARMACIE_YAYE_MANE,
       SenegalLandmark.CITE_OUVRIERE_POSTE_COURANT,
       SenegalLandmark.CITE_OUVRIERE_MARCHE,
+      SenegalLandmark.CITE_OUVRIERE_BALLABEY2,
     ],
     [SenegalCity.NGUINTH]: [
       SenegalLandmark.NGUINTH_QUINCAILLERIE_MBALO,
@@ -2108,6 +2111,8 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.NGUINTH_LYCEE_TECHNIQUE,
       SenegalLandmark.NGUINTH_POSTE_POLICE,
       SenegalLandmark.NGUINTH_DEUX_VOIES,
+      SenegalLandmark.NGUINTH_TERRAIN_THIEO,
+      SenegalLandmark.NGUINTH_PHARMACIE_BAKH_YAYE,
     ],
     [SenegalCity.NASROU]: [
       SenegalLandmark.NASROU_TERRAIN_DENTEL,
@@ -2119,6 +2124,7 @@ export const SENEGAL_NEIGHBORHOODS = {
     [SenegalCity.DIAKHAO]: [
       SenegalLandmark.DIAKHAO_BASE,
       SenegalLandmark.DIAKHAO_MARCHE,
+      SenegalLandmark.DIAKHAO_DISPENSAIRE,
     ],
     [SenegalCity.THIALY]: [SenegalLandmark.THIALY_LYCEE_TECHNIQUE],
     [SenegalCity.LEONA]: [SenegalLandmark.LEONA_KEUR_THIEME],
@@ -2139,6 +2145,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.CITE_MALICK_SY_STATION_SHELL,
       SenegalLandmark.CITE_MALICK_SY_LYCEE,
       SenegalLandmark.CITE_MALICK_SY_CNEPS,
+      SenegalLandmark.CITE_MALICK_SY_CABINET_COMPTABLE_KOF,
     ],
     [SenegalCity.CENTREVILLE]: [
       SenegalLandmark.CENTREVILLE_MAIRIE,
@@ -2174,7 +2181,7 @@ export const SENEGAL_NEIGHBORHOODS = {
      * Cité Niakh
      * Zone Industrielle
      * HLM Route de Mbour
-     * Quartier Bahdate (BAKHDATE?)
+     * Quartier Bahdate (BAKHDAD?)
      */
   },
 };
