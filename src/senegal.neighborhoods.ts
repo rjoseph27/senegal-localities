@@ -2061,6 +2061,7 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.KEUR_ISSA_STATION,
       SenegalLandmark.KEUR_ISSA_PHARMACIE_MAME_ASTA_WALO,
       SenegalLandmark.KEUR_ISSA_TALI_BOU_BESS,
+      SenegalLandmark.KEUR_ISSA_RESIDENCE_CHERIF_MAMINE_HAIDARA,
     ],
     [SenegalCity.MEDINA_FALL]: [
       SenegalLandmark.MEDINA_FALL_LYCEE,
@@ -2351,10 +2352,16 @@ export const SENEGAL_NEIGHBORHOODS = {
       SenegalLandmark.ZONE_INDUSTRIELLE_DIEYE_ET_FRERE,
       SenegalLandmark.ZONE_INDUSTRIELLE_EDK,
     ],
-
-    /**
-     * Cité Ousmane Ngom
-     * cite Ibrahima Sarr Ex ballabey
-     */
+    [SenegalCity.BALLABEY]: [
+      SenegalLandmark.BALLABEY_USINE,
+      SenegalLandmark.BALLABEY_CAMPUS,
+      SenegalLandmark.BALLABEY_TERRAIN_JANTE_BI,
+      SenegalLandmark.BALLABEY_TERRAIN_RAIL,
+      SenegalLandmark.BALLABEY_SALLE_MUSCULATION,
+      SenegalLandmark.BALLABEY_RAIL,
+    ],
+    [SenegalCity.CITE_OUSMANE_NGOM]: [
+      SenegalLandmark.CITE_OUSMANE_NGOM_MOSQUEE,
+    ],
   },
 };
